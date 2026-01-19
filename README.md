@@ -5,11 +5,6 @@
 ## 🚀 Project Overview
 This repository contains a SQL-driven framework designed to optimize the Healthcare Revenue Cycle by identifying and routing "Actionable" denials. Unlike standard reporting, this engine utilizes ANSI X12 standards (CARC/RARC) to filter non-recoverable adjustments and route claims to specific operational "fix" departments—such as Credentialing, Coding Review, or RPA Automation.
 
-## 📈 Key Achievements (Based on Real-World Deployment)
-* [cite_start]**Cash Flow Acceleration:** Reduced A/R days from 45 to 28, unlocking **$2.3M in accelerated cash flow**.
-* [cite_start]**Recovery Engineering:** Delivered **$2M+ in net recoveries** by automating the resolution of high-volume, low-balance denials[cite: 19, 151].
-* [cite_start]**Operational Efficiency:** Improved workflow efficiency by **37%** through automated routing and stakeholder alignment[cite: 17, 62].
-
 ## 🛠 Technical Architecture
 The core logic relies on a hierarchical assessment of claim data:
 1. **Exclusion Layer:** Filters out patient responsibility (PR 1-3) and standard contractual adjustments (CO-45) to focus on net recoverable revenue.
