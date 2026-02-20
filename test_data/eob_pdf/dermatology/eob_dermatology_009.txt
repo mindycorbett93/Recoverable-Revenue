@@ -1,0 +1,58 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicaid                                  DATE: 02/16/2026
+PAYER ID: MDCD                                   EOB NUMBER: EOB1000923579
+PLAN TYPE: Medicaid                              TAX ID: 91-3994113
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Anderson, Joshua                    Member ID: INS65323001
+Date of Birth: 03/28/1996               Group: GRP785226
+Patient Account: PAT841791              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Elizabeth Lewis, DO FACP  NPI: 1000010091
+Provider Address: 5743 Park Dr
+Dallas, TX 75201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1000900                Received Date: 01/30/2026
+Service From: 01/12/2026                Service To: 01/13/2026
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     17311   Mohs surgery, first stag  $  750.00  $ 524.70  $  0.00  $ 0.00      N010  $ 225.30  $ 524.70
+2     96910   Photochemotherapy         $  125.00  $   0.00  $  0.00  $ 0.00      N002  $ 125.00  $   0.00
+3     17000   Destruction, premalignan  $   75.00  $  61.10  $  0.00  $ 0.00        97  $  13.90  $  61.10
+4     11104   Punch biopsy of skin      $  150.00  $ 125.36  $  0.00  $ 0.00         3  $  24.64  $ 125.36
+5     11400   Excision, benign lesion,  $  200.00  $   0.00  $  0.00  $ 0.00      N001  $ 200.00  $   0.00
+6     11102   Tangential biopsy of ski  $  125.00  $ 102.87  $  0.00  $ 0.00      N004  $  22.13  $ 102.87
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1425.00
+Total Allowed:    $    814.03
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    610.97
+Total Paid:       $    814.03
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N001: Service not medically necessary per plan guidelines
+N002: Provider not contracted with plan
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+MA130: Your claim contains incomplete or invalid info
+N479: Missing/incomplete/invalid charge amount
+================================================================================

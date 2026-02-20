@@ -1,0 +1,61 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: UnitedHealthcare                          DATE: 10/13/2025
+PAYER ID: 87726                                  EOB NUMBER: EOB0500372576
+PLAN TYPE: PPO                                   TAX ID: 73-1164140
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Allen, Emily                     Member ID: MEM56806361
+Date of Birth: 07/04/1969               Group: GRP431984
+Patient Account: PAT385863              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Thomas Patel, MD         NPI: 1000005031
+Provider Address: 3908 Washington Ave
+Chicago, IL 60601
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0500300                Received Date: 09/17/2025
+Service From: 09/01/2025                Service To: 09/02/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     90833   Psychotherapy add-on, 30  $   65.00  $  60.42  $  0.00  $18.13       197  $  14.26  $  42.29
+2     90853   Group psychotherapy       $   50.00  $   0.00  $  0.00  $ 0.00         2  $  50.00  $   0.00
+3     96131   Psychological testing, a  $  150.00  $ 119.94  $  0.00  $ 0.00       167  $  59.67  $ 119.94
+4     90791   Psychiatric diagnostic e  $  250.00  $ 168.75  $ 67.50  $30.00         1  $  81.25  $  71.25
+5     90836   Psychotherapy add-on, 45  $  100.00  $  84.57  $  0.00  $ 0.00        50  $  29.11  $  84.57
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    615.00
+Total Allowed:    $    433.68
+Total Deductible: $     67.50
+Total Copay:      $     48.13
+Total Adjustment: $    234.29
+Total Paid:       $    318.05
+Patient Responsibility: $    115.63
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+167: This (these) diagnosis(es) is (are) not covered
+197: Precertification/authorization/notification absent
+2: Coinsurance amount
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+N479: Missing/incomplete/invalid charge amount
+N657: Bill other payer first
+================================================================================

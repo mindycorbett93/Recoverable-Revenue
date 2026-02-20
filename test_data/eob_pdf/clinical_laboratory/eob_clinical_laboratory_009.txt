@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicaid                                  DATE: 12/06/2025
+PAYER ID: MDCD                                   EOB NUMBER: EOB1400926081
+PLAN TYPE: Medicaid                              TAX ID: 78-4838944
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Nelson, Cynthia                   Member ID: PLN22872699
+Date of Birth: 12/18/1965               Group: GRP500609
+Patient Account: PAT613307              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Rebecca Garcia, MD       NPI: 1000014091
+Provider Address: 9282 Lake Rd
+Nashville, TN 37201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1400900                Received Date: 11/23/2025
+Service From: 11/17/2025                Service To: 11/17/2025
+Place of Service: 81 - Independent Laboratory  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     82306   Vitamin D, 25-hydroxy     $   45.00  $  38.81  $  0.00  $11.64       197  $   9.32  $  27.17
+2     82947   Glucose, blood            $    8.00  $   7.42  $  0.00  $ 0.00      N010  $   0.58  $   7.42
+3     86580   TB skin test              $   12.00  $   0.00  $  0.00  $ 0.00      N002  $  12.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $     65.00
+Total Allowed:    $     46.23
+Total Deductible: $      0.00
+Total Copay:      $     11.64
+Total Adjustment: $     21.90
+Total Paid:       $     34.59
+Patient Responsibility: $     11.64
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+197: Precertification/authorization/notification absent
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N002: Provider not contracted with plan
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+N432: Alert: Adjustment based on prior payer's allowance
+N479: Missing/incomplete/invalid charge amount
+================================================================================

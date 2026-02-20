@@ -1,0 +1,60 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Cigna                                     DATE: 11/03/2025
+PAYER ID: 62308                                  EOB NUMBER: EOB0000816217
+PLAN TYPE: PPO                                   TAX ID: 70-8601132
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Wright, Betty                     Member ID: PLN84606648
+Date of Birth: 06/12/1993               Group: GRP914161
+Patient Account: PAT384679              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Stephen Lewis, MD        NPI: 1000000081
+Provider Address: 1028 Meadow Ln
+Phoenix, AZ 85001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0000800                Received Date: 10/06/2025
+Service From: 09/16/2025                Service To: 09/18/2025
+Place of Service: 11 - Office            Claim Status: DENIED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99490   Chronic care management,  $   42.00  $   0.00  $  0.00  $ 0.00      N006  $  42.00  $   0.00
+2     99204   Office visit, new patien  $  200.00  $   0.00  $  0.00  $ 0.00      N001  $ 200.00  $   0.00
+3     36415   Venipuncture              $   10.00  $   0.00  $  0.00  $ 0.00      N008  $  10.00  $   0.00
+4     99213   Office visit, establishe  $   95.00  $   0.00  $  0.00  $ 0.00      N004  $  95.00  $   0.00
+5     99395   Preventive visit, establ  $  175.00  $   0.00  $  0.00  $ 0.00      N010  $ 175.00  $   0.00
+6     71046   Chest X-ray, 2 views      $   45.00  $   0.00  $  0.00  $ 0.00      N004  $  45.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    567.00
+Total Allowed:    $      0.00
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    567.00
+Total Paid:       $      0.00
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+N001: Service not medically necessary per plan guidelines
+N004: Claim submitted past deadline
+N006: Duplicate submission detected by payer system
+N008: Service bundled with primary procedure
+N010: Service exceeds plan benefit limits
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+MA130: Your claim contains incomplete or invalid info
+N657: Bill other payer first
+================================================================================

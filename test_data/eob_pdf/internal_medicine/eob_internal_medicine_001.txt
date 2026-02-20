@@ -1,0 +1,61 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicare Part B                           DATE: 10/15/2025
+PAYER ID: CMS                                    EOB NUMBER: EOB0100159196
+PLAN TYPE: Medicare                              TAX ID: 16-7012398
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Garcia, Andrew                    Member ID: INS75317394
+Date of Birth: 07/14/1992               Group: GRP661075
+Patient Account: PAT803600              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: John Brown, MD           NPI: 1000001011
+Provider Address: 3702 Main St
+Chicago, IL 60601
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0100100                Received Date: 10/01/2025
+Service From: 09/18/2025                Service To: 09/20/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99238   Hospital discharge, 30 m  $  150.00  $ 127.86  $  0.00  $ 0.00         3  $  22.14  $ 127.86
+2     99213   Office visit, establishe  $   95.00  $   0.00  $  0.00  $ 0.00        18  $  95.00  $   0.00
+3     99204   Office visit, new patien  $  200.00  $ 184.42  $  0.00  $25.00        50  $  40.10  $ 159.42
+4     99205   Office visit, new patien  $  275.00  $ 232.03  $  0.00  $40.00        97  $  54.78  $ 192.03
+5     99495   Transitional care mgmt,   $  250.00  $ 174.62  $  0.00  $20.00         3  $  75.38  $ 154.62
+6     99232   Subsequent hospital care  $  120.00  $  73.31  $  0.00  $ 0.00         3  $  46.69  $  73.31
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1090.00
+Total Allowed:    $    792.24
+Total Deductible: $      0.00
+Total Copay:      $     85.00
+Total Adjustment: $    334.09
+Total Paid:       $    707.24
+Patient Responsibility: $     85.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+18: Exact duplicate claim/service
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+97: The benefit for this service is included in payment for another service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+MA04: Secondary payment cannot be considered
+N362: Missing/incomplete/invalid demo info
+N386: This decision was based on a Local Coverage Determination
+================================================================================

@@ -1,0 +1,63 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicare Part B                           DATE: 01/06/2026
+PAYER ID: CMS                                    EOB NUMBER: EOB0200749238
+PLAN TYPE: Medicare                              TAX ID: 31-7031185
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Jones, Linda                     Member ID: GRP22676427
+Date of Birth: 06/17/1950               Group: GRP860647
+Patient Account: PAT509556              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Robert Williams, MD      NPI: 1000002071
+Provider Address: 5740 Valley View Dr
+San Jose, CA 95101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0200700                Received Date: 12/13/2025
+Service From: 12/01/2025                Service To: 12/03/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     94010   Spirometry                $   40.00  $   0.00  $  0.00  $ 0.00      N002  $  40.00  $   0.00
+2     95024   Intracutaneous allergy t  $   12.00  $   9.77  $  3.91  $ 0.00      N008  $   3.50  $   5.86
+3     95004   Percutaneous allergy ski  $    8.00  $   0.00  $  0.00  $ 0.00      N006  $   8.00  $   0.00
+4     95165   Antigen therapy, single   $   15.00  $  14.16  $  5.66  $ 0.00      N001  $   3.05  $   8.50
+5     86003   Allergen specific IgE     $   18.00  $  15.98  $  0.00  $ 0.00      N003  $   4.05  $  15.98
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $     93.00
+Total Allowed:    $     39.91
+Total Deductible: $      9.57
+Total Copay:      $      0.00
+Total Adjustment: $     58.60
+Total Paid:       $     30.34
+Patient Responsibility: $      9.57
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N001: Service not medically necessary per plan guidelines
+N002: Provider not contracted with plan
+N003: Authorization not obtained within required timeframe
+N006: Duplicate submission detected by payer system
+N008: Service bundled with primary procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+MA04: Secondary payment cannot be considered
+MA130: Your claim contains incomplete or invalid info
+N362: Missing/incomplete/invalid demo info
+N432: Alert: Adjustment based on prior payer's allowance
+================================================================================

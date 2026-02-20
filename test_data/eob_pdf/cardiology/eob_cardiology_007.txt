@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicaid                                  DATE: 11/03/2025
+PAYER ID: MDCD                                   EOB NUMBER: EOB0400718404
+PLAN TYPE: Medicaid                              TAX ID: 19-3524764
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Walker, Joshua                    Member ID: GRP48133727
+Date of Birth: 07/25/1968               Group: GRP599041
+Patient Account: PAT934310              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Michael Garcia, MD       NPI: 1000004071
+Provider Address: 6335 Forest Dr
+Dallas, TX 75201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0400700                Received Date: 10/14/2025
+Service From: 09/27/2025                Service To: 09/29/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99215   Office visit, establishe  $  210.00  $   0.00  $  0.00  $ 0.00      N007  $ 210.00  $   0.00
+2     93017   Cardiovascular stress te  $  175.00  $   0.00  $  0.00  $ 0.00      N002  $ 175.00  $   0.00
+3     93306   Echocardiography, comple  $  350.00  $   0.00  $  0.00  $ 0.00      N005  $ 350.00  $   0.00
+4     93453   Combined heart catheteri  $ 1500.00  $1189.53  $  0.00  $ 0.00      N005  $ 487.21  $1189.53
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   2235.00
+Total Allowed:    $   1189.53
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $   1222.21
+Total Paid:       $   1189.53
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N002: Provider not contracted with plan
+N005: Patient coverage inactive at time of service
+N007: Incorrect modifier used for procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+N381: Alert: Consult our website for fee schedule
+================================================================================

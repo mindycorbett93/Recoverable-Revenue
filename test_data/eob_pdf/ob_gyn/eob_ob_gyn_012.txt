@@ -1,0 +1,64 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Blue Cross Blue Shield                    DATE: 09/13/2025
+PAYER ID: BCBS1                                  EOB NUMBER: EOB0901292910
+PLAN TYPE: HMO                                   TAX ID: 82-7640504
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Gonzalez, Carol                     Member ID: PLN66188153
+Date of Birth: 08/21/2002               Group: GRP815127
+Patient Account: PAT466153              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: James Williams, MD       NPI: 1000009121
+Provider Address: 3001 Forest Dr
+San Antonio, TX 78201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0901200                Received Date: 08/31/2025
+Service From: 08/26/2025                Service To: 08/27/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99214   Office visit, establishe  $  145.00  $ 113.34  $  0.00  $ 0.00  3,1,N003  $  31.66  $ 113.34
+2     58558   Hysteroscopy with biopsy  $  800.00  $ 642.34  $  0.00  $78.26  N005,167,2  $ 362.73  $ 564.08
+3     88175   Pap smear, liquid-based   $   35.00  $   0.00  $  0.00  $ 0.00      50,4  $  35.00  $   0.00
+4     76817   Transvaginal ultrasound,  $  225.00  $   0.00  $  0.00  $ 0.00  1,N007,167  $ 225.00  $   0.00
+5     76811   OB ultrasound, detailed   $  350.00  $ 327.63  $  0.00  $ 0.00   N004,45  $  22.37  $ 327.63
+6     57454   Colposcopy with biopsy    $  300.00  $ 196.52  $  0.00  $ 0.00   97,N010  $ 167.76  $ 196.52
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1855.00
+Total Allowed:    $   1279.83
+Total Deductible: $      0.00
+Total Copay:      $     78.26
+Total Adjustment: $    844.52
+Total Paid:       $   1201.57
+Patient Responsibility: $     78.26
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+167: This (these) diagnosis(es) is (are) not covered
+2: Coinsurance amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+97: The benefit for this service is included in payment for another service
+N005: Patient coverage inactive at time of service
+N010: Service exceeds plan benefit limits
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+N432: Alert: Adjustment based on prior payer's allowance
+N479: Missing/incomplete/invalid charge amount
+N657: Bill other payer first
+================================================================================

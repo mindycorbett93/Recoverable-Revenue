@@ -1,0 +1,53 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Blue Cross Blue Shield                    DATE: 01/28/2026
+PAYER ID: BCBS1                                  EOB NUMBER: EOB0401286324
+PLAN TYPE: HMO                                   TAX ID: 15-8224437
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Torres, Christopher               Member ID: GRP34786783
+Date of Birth: 09/05/1990               Group: GRP761560
+Patient Account: PAT260046              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Sarah Nguyen, MD         NPI: 1000004121
+Provider Address: 2334 Sunset Blvd
+Philadelphia, PA 19101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0401200                Received Date: 01/07/2026
+Service From: 12/27/2025                Service To: 12/28/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     33533   CABG, single arterial gr  $ 5000.00  $   0.00  $  0.00  $ 0.00     50,45  $5000.00  $   0.00
+2     93000   EKG, 12-lead              $   35.00  $  27.81  $ 11.12  $ 0.00      1,50  $  12.73  $  16.69
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   5035.00
+Total Allowed:    $     27.81
+Total Deductible: $     11.12
+Total Copay:      $      0.00
+Total Adjustment: $   5012.73
+Total Paid:       $     16.69
+Patient Responsibility: $     11.12
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N381: Alert: Consult our website for fee schedule
+N95: This provider type/provider not eligible for this service
+================================================================================

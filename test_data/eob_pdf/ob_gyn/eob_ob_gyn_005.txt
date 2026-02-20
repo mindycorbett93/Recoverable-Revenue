@@ -1,0 +1,54 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Aetna                                     DATE: 12/02/2025
+PAYER ID: 60054                                  EOB NUMBER: EOB0900532555
+PLAN TYPE: PPO                                   TAX ID: 29-6104213
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Green, Karen                     Member ID: INS51966816
+Date of Birth: 07/17/1999               Group: GRP352730
+Patient Account: PAT616090              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Sarah Nguyen, MD PhD     NPI: 1000009051
+Provider Address: 643 Hill St
+Houston, TX 77001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0900500                Received Date: 11/06/2025
+Service From: 10/21/2025                Service To: 10/23/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     57454   Colposcopy with biopsy    $  300.00  $ 248.92  $  0.00  $ 0.00         1  $  51.08  $ 248.92
+2     76801   OB ultrasound, first tri  $  225.00  $ 197.00  $  0.00  $ 0.00        50  $  65.31  $ 197.00
+3     81002   Urinalysis, non-automate  $    8.00  $   7.32  $  0.00  $ 0.00         1  $   0.68  $   7.32
+4     99214   Office visit, establishe  $  145.00  $ 126.06  $  0.00  $ 0.00        97  $  43.19  $ 126.06
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    678.00
+Total Allowed:    $    579.30
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    160.26
+Total Paid:       $    579.30
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+97: The benefit for this service is included in payment for another service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N362: Missing/incomplete/invalid demo info
+================================================================================

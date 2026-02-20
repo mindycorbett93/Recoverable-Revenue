@@ -1,0 +1,65 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Kaiser Permanente                         DATE: 12/12/2025
+PAYER ID: 91051                                  EOB NUMBER: EOB0101260654
+PLAN TYPE: HMO                                   TAX ID: 50-6333985
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Johnson, Donald                    Member ID: PLN40213398
+Date of Birth: 03/19/1941               Group: GRP343588
+Patient Account: PAT725595              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Laura Wright, MD         NPI: 1000001121
+Provider Address: 6654 Forest Dr
+Columbus, OH 43085
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0101200                Received Date: 11/19/2025
+Service From: 11/11/2025                Service To: 11/12/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99496   Transitional care mgmt,   $  320.00  $ 197.46  $ 28.15  $30.00  1,N005,16  $ 196.00  $ 139.31
+2     99213   Office visit, establishe  $   95.00  $   0.00  $  0.00  $ 0.00  197,167,N008  $  95.00  $   0.00
+3     99223   Hospital admit, high com  $  350.00  $   0.00  $  0.00  $ 0.00     4,167  $ 350.00  $   0.00
+4     99238   Hospital discharge, 30 m  $  150.00  $ 136.17  $ 54.47  $ 0.00  1,97,N007  $  52.04  $  81.70
+5     99232   Subsequent hospital care  $  120.00  $   0.00  $  0.00  $ 0.00    50,197  $ 120.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1035.00
+Total Allowed:    $    333.63
+Total Deductible: $     82.62
+Total Copay:      $     30.00
+Total Adjustment: $    813.04
+Total Paid:       $    221.01
+Patient Responsibility: $    112.62
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+16: Claim/service lacks information needed for adjudication
+197: Precertification/authorization/notification absent
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+97: The benefit for this service is included in payment for another service
+N005: Patient coverage inactive at time of service
+N007: Incorrect modifier used for procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+MA130: Your claim contains incomplete or invalid info
+N432: Alert: Adjustment based on prior payer's allowance
+N95: This provider type/provider not eligible for this service
+================================================================================

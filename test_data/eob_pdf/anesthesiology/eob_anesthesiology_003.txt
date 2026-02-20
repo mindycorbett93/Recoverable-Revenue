@@ -1,0 +1,62 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Kaiser Permanente                         DATE: 02/04/2026
+PAYER ID: 91051                                  EOB NUMBER: EOB1100334214
+PLAN TYPE: HMO                                   TAX ID: 67-6385119
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Garcia, Andrew                    Member ID: MEM80366952
+Date of Birth: 01/13/1974               Group: GRP290152
+Patient Account: PAT842807              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Thomas Lewis, DO         NPI: 1000011031
+Provider Address: 8437 Washington Ave
+San Diego, CA 92101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1100300                Received Date: 01/10/2026
+Service From: 12/23/2025                Service To: 12/23/2025
+Place of Service: 21 - Inpatient Hospital  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     00400   Anesthesia, chest wall s  $  600.00  $ 531.10  $  0.00  $ 0.00         4  $  68.90  $ 531.10
+2     00142   Anesthesia, lens surgery  $  400.00  $   0.00  $  0.00  $ 0.00        50  $ 400.00  $   0.00
+3     01961   Anesthesia, cesarean del  $  650.00  $   0.00  $  0.00  $ 0.00        18  $ 650.00  $   0.00
+4     99140   Anesthesia, emergency co  $  150.00  $ 102.82  $  0.00  $ 0.00       167  $  47.18  $ 102.82
+5     01480   Anesthesia, lower leg su  $  500.00  $   0.00  $  0.00  $ 0.00         1  $ 500.00  $   0.00
+6     00740   Anesthesia, upper GI pro  $  600.00  $ 394.22  $  0.00  $ 0.00       197  $ 205.78  $ 394.22
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   2900.00
+Total Allowed:    $   1028.14
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $   1871.86
+Total Paid:       $   1028.14
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+18: Exact duplicate claim/service
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+N362: Missing/incomplete/invalid demo info
+N381: Alert: Consult our website for fee schedule
+N386: This decision was based on a Local Coverage Determination
+N479: Missing/incomplete/invalid charge amount
+N657: Bill other payer first
+================================================================================

@@ -1,0 +1,425 @@
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ELIGIBILITY INQUIRY / RESPONSE PAIR
+Practice Type : Clinical Laboratory
+Patient       : King, Robert
+Member ID     : MEM21624714
+Provider      : Maria Hall, MD PhD (NPI: 1000034406)
+Payer         : Aetna (PPO)
+Date of Svc   : 20251102
+Scenario      : PREAUTH
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+270 - ELIGIBILITY INQUIRY REQUEST
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*1000034406     *ZZ*60054          *260220*2333*^*00501*000014005*0*P*:~
+GS*HS*1000034406*60054*20260220*2333*14005*X*005010X279A1~
+ST*270*140050*005010X279A1~
+BHT*0022*13*140050*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Aetna*****PI*60054~
+HL*2*1*21*1~
+NM1*1P*1*Hall*Maria****XX*1000034406~
+REF*4A*291U00000X~
+N3*1831 Medical Center Dr~
+N4*New York*NY*10001~
+PRV*PE*PXC*291U00000X~
+HL*3*2*22*0~
+TRN*1*11000034406140050*1000034406~
+NM1*IL*1*King*Robert****MI*MEM21624714~
+REF*6P*PAT310305~
+N3*7100 Meadow Ln~
+N4*Nashville*TN*37201~
+DMG*D8*19590617*M~
+DTP*291*D8*20251102~
+EQ*30~
+EQ*5~
+EQ*1~
+EQ*98~
+SE*25*140050~
+GE*1*14005~
+IEA*1*000014005~
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+271 - ELIGIBILITY BENEFIT RESPONSE
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*60054          *ZZ*1000034406     *260220*2333*^*00501*000014505*0*P*:~
+GS*HB*60054*1000034406*20260220*2333*14505*X*005010X279A1~
+ST*271*140051*005010X279A1~
+BHT*0022*11*140051*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Aetna*****PI*60054~
+PER*IC*CUSTOMER SERVICE*TE*8477056514*UR*www.aetnaprovider.com~
+HL*2*1*21*1~
+NM1*1P*1*Hall*Maria****XX*1000034406~
+REF*EO*ACTIVE~
+N3*2639 Medical Center Dr~
+N4*Los Angeles*CA*90001~
+HL*3*2*22*0~
+TRN*2*260054140051*60054~
+NM1*IL*1*King*Robert****MI*MEM21624714~
+N3*7100 Meadow Ln~
+N4*Nashville*TN*37201~
+DMG*D8*19590617*M~
+INS*Y*18*001*25~
+DTP*346*RD8*20220101-20251231~
+EB*1*IND***30**Freedom Select PPO~
+EB*D*IND***30****Freedom Select PPO~
+REF*18*GRP835992~
+DTP*291*RD8*20220101-20251231~
+EB*C*IND*30**DED*****1865.79~
+MSG*In-Network Individual Deductible~
+EB*C*FAM*30**DED*****3731.58~
+MSG*In-Network Family Deductible~
+EB*C*IND*30**DED_REMAINING*****814.13~
+MSG*In-Network Individual Deductible Remaining~
+EB*B*IND*30**COPAY*****44.02~
+MSG*In-Network Office Visit Copay~
+EB*B*IND*1**COPAY*****59.70~
+MSG*In-Network Specialist Visit Copay~
+EB*A*IND*30**COINSURANCE*****25~
+MSG*In-Network Coinsurance Percentage After Deductible~
+EB*G*IND*30**OOP_MAX*****5412.13~
+MSG*In-Network Individual Out-of-Pocket Maximum~
+EB*G*FAM*30**OOP_MAX*****10824.26~
+MSG*In-Network Family Out-of-Pocket Maximum~
+EB*G*IND*30**OOP_REMAINING*****3314.76~
+MSG*In-Network Individual Out-of-Pocket Remaining~
+REF*EO*ACTIVE~
+MSG*Provider NPI 1000034406 is in-network and actively enrolled with Aetna Freedom Select PPO. In-network benefits apply.~
+EB*1*IND*5~
+EB*B*IND*5**COPAY*****17.69~
+MSG*Diagnostic Lab - In-Network benefit covered~
+EB*1*IND*1~
+EB*B*IND*1**COPAY*****44.02~
+MSG*Medical Care - In-Network benefit covered~
+EB*1*IND*98~
+EB*B*IND*98**COPAY*****44.02~
+MSG*Professional (Physician) Visit - Office - In-Network benefit covered~
+EB*1*IND*73~
+EB*A*IND*73**COINSURANCE*****25~
+MSG*Preventive - In-Network benefit covered~
+EB*CB*IND***30~
+MSG*Pre-authorization/pre-certification required for select services. Contact Aetna Utilization Management.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Genetic Testing. Failure to obtain authorization may result in reduced or denied benefits.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Specialized Pathology Panel. Failure to obtain authorization may result in reduced or denied benefits.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Flow Cytometry. Failure to obtain authorization may result in reduced or denied benefits.~
+MSG*Utilization Management Contact: 8249827461. Auth requests may be submitted via provider portal.~
+MSG*Eligibility response for Robert King DOB 19590617 as of 20251102. Verify benefits for specific services. This is not a guarantee of payment.~
+SE*67*140051~
+GE*1*14505~
+IEA*1*000014505~

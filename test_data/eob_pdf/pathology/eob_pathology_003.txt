@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Humana                                    DATE: 01/26/2026
+PAYER ID: 61101                                  EOB NUMBER: EOB0700373822
+PLAN TYPE: HMO                                   TAX ID: 12-3248586
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Williams, Daniel                    Member ID: PLN22428685
+Date of Birth: 04/15/1944               Group: GRP352204
+Patient Account: PAT351684              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Richard Chen, DO         NPI: 1000007031
+Provider Address: 5758 Cedar Ln
+Columbus, OH 43085
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0700300                Received Date: 01/02/2026
+Service From: 12/19/2025                Service To: 12/19/2025
+Place of Service: 22 - Outpatient Hospital  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     85025   CBC with differential     $   15.00  $   9.34  $  3.74  $ 2.80         3  $   5.66  $   2.80
+2     80053   Comprehensive metabolic   $   25.00  $  15.38  $  0.00  $ 4.61         3  $   9.62  $  10.77
+3     87086   Urine culture             $   18.00  $  12.37  $  0.00  $ 0.00        16  $   6.65  $  12.37
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $     58.00
+Total Allowed:    $     37.09
+Total Deductible: $      3.74
+Total Copay:      $      7.41
+Total Adjustment: $     21.93
+Total Paid:       $     25.94
+Patient Responsibility: $     11.15
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+16: Claim/service lacks information needed for adjudication
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+N362: Missing/incomplete/invalid demo info
+N432: Alert: Adjustment based on prior payer's allowance
+================================================================================

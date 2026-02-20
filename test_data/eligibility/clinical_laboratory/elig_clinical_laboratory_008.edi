@@ -1,0 +1,422 @@
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ELIGIBILITY INQUIRY / RESPONSE PAIR
+Practice Type : Clinical Laboratory
+Patient       : King, Betty
+Member ID     : MEM65019052
+Provider      : Rebecca Wright, MD (NPI: 1000034427)
+Payer         : Blue Cross Blue Shield (HMO)
+Date of Svc   : 20250824
+Scenario      : PREAUTH
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+270 - ELIGIBILITY INQUIRY REQUEST
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*1000034427     *ZZ*BCBS1          *260220*2333*^*00501*000014008*0*P*:~
+GS*HS*1000034427*BCBS1*20260220*2333*14008*X*005010X279A1~
+ST*270*140080*005010X279A1~
+BHT*0022*13*140080*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Blue Cross Blue Shield*****PI*BCBS1~
+HL*2*1*21*1~
+NM1*1P*1*Wright*Rebecca****XX*1000034427~
+REF*4A*291U00000X~
+N3*7398 Medical Center Dr~
+N4*San Jose*CA*95101~
+PRV*PE*PXC*291U00000X~
+HL*3*2*22*0~
+TRN*1*11000034427140080*1000034427~
+NM1*IL*1*King*Betty****MI*MEM65019052~
+REF*6P*PAT499479~
+N3*7312 Cedar Ln~
+N4*Chicago*IL*60601~
+DMG*D8*20020703*F~
+DTP*291*D8*20250824~
+EQ*30~
+EQ*5~
+EQ*1~
+EQ*98~
+SE*25*140080~
+GE*1*14008~
+IEA*1*000014008~
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+271 - ELIGIBILITY BENEFIT RESPONSE
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*BCBS1          *ZZ*1000034427     *260220*2333*^*00501*000014508*0*P*:~
+GS*HB*BCBS1*1000034427*20260220*2333*14508*X*005010X279A1~
+ST*271*140081*005010X279A1~
+BHT*0022*11*140081*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Blue Cross Blue Shield*****PI*BCBS1~
+PER*IC*CUSTOMER SERVICE*TE*8496925862*UR*www.bluecrossblueshieldprovider.com~
+HL*2*1*21*1~
+NM1*1P*1*Wright*Rebecca****XX*1000034427~
+REF*EO*ACTIVE~
+N3*5334 Medical Center Dr~
+N4*Austin*TX*73301~
+HL*3*2*22*0~
+TRN*2*2BCBS1140081*BCBS1~
+NM1*IL*1*King*Betty****MI*MEM65019052~
+N3*7312 Cedar Ln~
+N4*Chicago*IL*60601~
+DMG*D8*20020703*F~
+INS*Y*18*001*25~
+DTP*346*RD8*20240101-20251231~
+EB*1*IND***30**Silver HMO 2500~
+EB*D*IND***30****Silver HMO 2500~
+REF*18*GRP202121~
+DTP*291*RD8*20240101-20251231~
+EB*C*IND*30**DED*****2441.79~
+MSG*In-Network Individual Deductible~
+EB*C*FAM*30**DED*****4883.58~
+MSG*In-Network Family Deductible~
+EB*C*IND*30**DED_REMAINING*****1444.24~
+MSG*In-Network Individual Deductible Remaining~
+EB*B*IND*30**COPAY*****40.94~
+MSG*In-Network Office Visit Copay~
+EB*B*IND*1**COPAY*****58.30~
+MSG*In-Network Specialist Visit Copay~
+EB*A*IND*30**COINSURANCE*****25~
+MSG*In-Network Coinsurance Percentage After Deductible~
+EB*G*IND*30**OOP_MAX*****5564.52~
+MSG*In-Network Individual Out-of-Pocket Maximum~
+EB*G*FAM*30**OOP_MAX*****11129.04~
+MSG*In-Network Family Out-of-Pocket Maximum~
+EB*G*IND*30**OOP_REMAINING*****4878.13~
+MSG*In-Network Individual Out-of-Pocket Remaining~
+REF*EO*ACTIVE~
+MSG*Provider NPI 1000034427 is in-network and actively enrolled with Blue Cross Blue Shield Silver HMO 2500. In-network benefits apply.~
+EB*1*IND*5~
+EB*B*IND*5**COPAY*****0.37~
+MSG*Diagnostic Lab - In-Network benefit covered~
+EB*1*IND*1~
+EB*B*IND*1**COPAY*****40.94~
+MSG*Medical Care - In-Network benefit covered~
+EB*1*IND*98~
+EB*B*IND*98**COPAY*****40.94~
+MSG*Professional (Physician) Visit - Office - In-Network benefit covered~
+EB*CB*IND***30~
+MSG*Pre-authorization/pre-certification required for select services. Contact Blue Cross Blue Shield Utilization Management.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Genetic Testing. Failure to obtain authorization may result in reduced or denied benefits.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Specialized Pathology Panel. Failure to obtain authorization may result in reduced or denied benefits.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Flow Cytometry. Failure to obtain authorization may result in reduced or denied benefits.~
+MSG*Utilization Management Contact: 8098258165. Auth requests may be submitted via provider portal.~
+MSG*Eligibility response for Betty King DOB 20020703 as of 20250824. Verify benefits for specific services. This is not a guarantee of payment.~
+SE*64*140081~
+GE*1*14508~
+IEA*1*000014508~

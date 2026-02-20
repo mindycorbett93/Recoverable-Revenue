@@ -1,0 +1,63 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: UnitedHealthcare                          DATE: 09/26/2025
+PAYER ID: 87726                                  EOB NUMBER: EOB0100451740
+PLAN TYPE: PPO                                   TAX ID: 68-1420235
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Torres, Elizabeth                 Member ID: PLN84935990
+Date of Birth: 11/12/1970               Group: GRP887133
+Patient Account: PAT419488              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Christine Garcia, MD PhD  NPI: 1000001041
+Provider Address: 2081 Market St
+Los Angeles, CA 90001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0100400                Received Date: 09/02/2025
+Service From: 08/26/2025                Service To: 08/28/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99490   Chronic care management   $   42.00  $   0.00  $  0.00  $ 0.00        16  $  42.00  $   0.00
+2     99204   Office visit, new patien  $  200.00  $ 186.52  $  0.00  $ 0.00       197  $  31.19  $ 186.52
+3     99223   Hospital admit, high com  $  350.00  $ 251.55  $  0.00  $ 0.00        50  $ 121.66  $ 251.55
+4     99233   Subsequent hospital care  $  175.00  $ 133.50  $ 53.40  $ 0.00        97  $  65.96  $  80.10
+5     85025   CBC with differential     $   15.00  $   9.39  $  0.00  $ 2.82       197  $   6.82  $   6.57
+6     93000   EKG, 12-lead with interp  $   35.00  $   0.00  $  0.00  $ 0.00         2  $  35.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    817.00
+Total Allowed:    $    580.96
+Total Deductible: $     53.40
+Total Copay:      $      2.82
+Total Adjustment: $    302.63
+Total Paid:       $    524.74
+Patient Responsibility: $     56.22
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+16: Claim/service lacks information needed for adjudication
+197: Precertification/authorization/notification absent
+2: Coinsurance amount
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+97: The benefit for this service is included in payment for another service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+N386: This decision was based on a Local Coverage Determination
+N95: This provider type/provider not eligible for this service
+================================================================================

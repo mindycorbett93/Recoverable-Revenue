@@ -1,0 +1,426 @@
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ELIGIBILITY INQUIRY / RESPONSE PAIR
+Practice Type : Dermatology
+Patient       : Johnson, Timothy
+Member ID     : GRP28807878
+Provider      : Laura Brown, MD (NPI: 1000030427)
+Payer         : Medicare Part B (Medicare)
+Date of Svc   : 20260116
+Scenario      : PREAUTH
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+270 - ELIGIBILITY INQUIRY REQUEST
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*1000030427     *ZZ*CMS            *260220*2333*^*00501*000010008*0*P*:~
+GS*HS*1000030427*CMS*20260220*2333*10008*X*005010X279A1~
+ST*270*100080*005010X279A1~
+BHT*0022*13*100080*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Medicare Part B*****PI*CMS~
+HL*2*1*21*1~
+NM1*1P*1*Brown*Laura****XX*1000030427~
+REF*4A*207N00000X~
+N3*7620 Medical Center Dr~
+N4*San Antonio*TX*78201~
+PRV*PE*PXC*207N00000X~
+HL*3*2*22*0~
+TRN*1*11000030427100080*1000030427~
+NM1*IL*1*Johnson*Timothy****MI*GRP28807878~
+REF*6P*PAT924281~
+N3*5063 Sunset Blvd~
+N4*San Antonio*TX*78201~
+DMG*D8*19800823*M~
+DTP*291*D8*20260116~
+EQ*30~
+EQ*1~
+EQ*98~
+EQ*BN~
+SE*25*100080~
+GE*1*10008~
+IEA*1*000010008~
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+271 - ELIGIBILITY BENEFIT RESPONSE
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*CMS            *ZZ*1000030427     *260220*2333*^*00501*000010508*0*P*:~
+GS*HB*CMS*1000030427*20260220*2333*10508*X*005010X279A1~
+ST*271*100081*005010X279A1~
+BHT*0022*11*100081*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Medicare Part B*****PI*CMS~
+PER*IC*CUSTOMER SERVICE*TE*8415284394*UR*www.medicarepartbprovider.com~
+HL*2*1*21*1~
+NM1*1P*1*Brown*Laura****XX*1000030427~
+REF*EO*ACTIVE~
+N3*6675 Medical Center Dr~
+N4*Dallas*TX*75201~
+HL*3*2*22*0~
+TRN*2*2CMS100081*CMS~
+NM1*IL*1*Johnson*Timothy****MI*GRP28807878~
+N3*5063 Sunset Blvd~
+N4*San Antonio*TX*78201~
+DMG*D8*19800823*M~
+INS*Y*18*001*25~
+DTP*346*RD8*20230101-20261231~
+EB*1*IND***30**Silver HMO 2500~
+EB*D*IND***30****Silver HMO 2500~
+REF*18*GRP529836~
+DTP*291*RD8*20230101-20261231~
+EB*C*IND*30**DED*****2394.49~
+MSG*In-Network Individual Deductible~
+EB*C*FAM*30**DED*****4788.98~
+MSG*In-Network Family Deductible~
+EB*C*IND*30**DED_REMAINING*****174.00~
+MSG*In-Network Individual Deductible Remaining~
+EB*B*IND*30**COPAY*****36.94~
+MSG*In-Network Office Visit Copay~
+EB*B*IND*1**COPAY*****55.25~
+MSG*In-Network Specialist Visit Copay~
+EB*A*IND*30**COINSURANCE*****15~
+MSG*In-Network Coinsurance Percentage After Deductible~
+EB*G*IND*30**OOP_MAX*****7143.57~
+MSG*In-Network Individual Out-of-Pocket Maximum~
+EB*G*FAM*30**OOP_MAX*****14287.14~
+MSG*In-Network Family Out-of-Pocket Maximum~
+EB*G*IND*30**OOP_REMAINING*****2779.34~
+MSG*In-Network Individual Out-of-Pocket Remaining~
+REF*EO*ACTIVE~
+MSG*Provider NPI 1000030427 is in-network and actively enrolled with Medicare Part B Silver HMO 2500. In-network benefits apply.~
+EB*1*IND*1~
+EB*B*IND*1**COPAY*****36.94~
+MSG*Medical Care - In-Network benefit covered~
+EB*1*IND*98~
+EB*B*IND*98**COPAY*****36.94~
+MSG*Professional (Physician) Visit - Office - In-Network benefit covered~
+EB*1*IND*BN~
+EB*A*IND*BN**COINSURANCE*****15~
+MSG*Surgical subject to deductible then 15% coinsurance~
+MSG*Surgical - In-Network benefit covered~
+EB*1*IND*50~
+EB*A*IND*50**COINSURANCE*****15~
+MSG*Hospital - Outpatient - In-Network benefit covered~
+EB*CB*IND***30~
+MSG*Pre-authorization/pre-certification required for select services. Contact Medicare Part B Utilization Management.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Mohs Micrographic Surgery. Failure to obtain authorization may result in reduced or denied benefits.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Phototherapy Series. Failure to obtain authorization may result in reduced or denied benefits.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Biologic Therapy. Failure to obtain authorization may result in reduced or denied benefits.~
+MSG*Utilization Management Contact: 8413687907. Auth requests may be submitted via provider portal.~
+MSG*Eligibility response for Timothy Johnson DOB 19800823 as of 20260116. Verify benefits for specific services. This is not a guarantee of payment.~
+SE*68*100081~
+GE*1*10508~
+IEA*1*000010508~

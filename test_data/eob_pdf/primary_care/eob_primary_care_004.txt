@@ -1,0 +1,59 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Blue Cross Blue Shield                    DATE: 02/06/2026
+PAYER ID: BCBS1                                  EOB NUMBER: EOB0000484178
+PLAN TYPE: HMO                                   TAX ID: 72-8690346
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: King, Emily                     Member ID: GRP33090223
+Date of Birth: 04/10/1944               Group: GRP531271
+Patient Account: PAT580883              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Thomas Martinez, MD      NPI: 1000000041
+Provider Address: 202 River Rd
+San Jose, CA 95101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0000400                Received Date: 01/25/2026
+Service From: 01/12/2026                Service To: 01/13/2026
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99385   Preventive visit, new, 1  $  200.00  $ 163.23  $  0.00  $ 0.00        16  $  48.29  $ 163.23
+2     99396   Preventive visit, establ  $  190.00  $ 153.66  $  0.00  $ 0.00       197  $  70.65  $ 153.66
+3     96372   Therapeutic injection, S  $   25.00  $   0.00  $  0.00  $ 0.00         3  $  25.00  $   0.00
+4     99490   Chronic care management,  $   42.00  $   0.00  $  0.00  $ 0.00         1  $  42.00  $   0.00
+5     99214   Office visit, establishe  $  145.00  $   0.00  $  0.00  $ 0.00       167  $ 145.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    602.00
+Total Allowed:    $    316.89
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    330.94
+Total Paid:       $    316.89
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+16: Claim/service lacks information needed for adjudication
+167: This (these) diagnosis(es) is (are) not covered
+197: Precertification/authorization/notification absent
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N386: This decision was based on a Local Coverage Determination
+N657: Bill other payer first
+================================================================================

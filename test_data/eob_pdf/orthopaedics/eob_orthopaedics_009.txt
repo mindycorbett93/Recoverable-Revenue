@@ -1,0 +1,53 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Aetna                                     DATE: 11/17/2025
+PAYER ID: 60054                                  EOB NUMBER: EOB0300948714
+PLAN TYPE: PPO                                   TAX ID: 42-3336541
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Sanchez, Barbara                   Member ID: PLN17644787
+Date of Birth: 07/24/1957               Group: GRP896777
+Patient Account: PAT531149              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: David Chen, MD FACS      NPI: 1000003091
+Provider Address: 6497 River Rd
+San Antonio, TX 78201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0300900                Received Date: 10/22/2025
+Service From: 10/07/2025                Service To: 10/07/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     73221   MRI upper extremity join  $  425.00  $   0.00  $  0.00  $ 0.00         2  $ 425.00  $   0.00
+2     20680   Hardware removal, deep    $  650.00  $ 579.75  $  0.00  $ 0.00        45  $  70.25  $ 579.75
+3     20610   Arthrocentesis, major jo  $  125.00  $   0.00  $  0.00  $ 0.00        97  $ 125.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1200.00
+Total Allowed:    $    579.75
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    620.25
+Total Paid:       $    579.75
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+2: Coinsurance amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+97: The benefit for this service is included in payment for another service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N479: Missing/incomplete/invalid charge amount
+================================================================================

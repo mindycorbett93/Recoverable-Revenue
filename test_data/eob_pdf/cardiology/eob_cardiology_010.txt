@@ -1,0 +1,62 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Anthem                                    DATE: 11/04/2025
+PAYER ID: ANTM1                                  EOB NUMBER: EOB0401044635
+PLAN TYPE: PPO                                   TAX ID: 65-8275082
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Allen, Rebecca                   Member ID: INS69938900
+Date of Birth: 10/18/1958               Group: GRP805093
+Patient Account: PAT744318              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Stephen Wright, MD       NPI: 1000004101
+Provider Address: 7877 College Ave
+Los Angeles, CA 90001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0401000                Received Date: 10/07/2025
+Service From: 09/24/2025                Service To: 09/25/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     93453   Combined heart catheteri  $ 1500.00  $1230.27  $  0.00  $25.00       197  $ 393.39  $1205.27
+2     93971   Duplex scan, extremity v  $  225.00  $ 193.03  $  0.00  $ 0.00      N010  $  31.97  $ 193.03
+3     99215   Office visit, establishe  $  210.00  $ 158.11  $  0.00  $ 0.00      N002  $  51.89  $ 158.11
+4     93458   Left heart catheterizati  $ 1200.00  $1089.15  $ 98.70  $25.00         1  $ 110.85  $ 965.45
+5     92928   Percutaneous coronary st  $ 2500.00  $1586.86  $  0.00  $ 0.00         1  $ 913.14  $1586.86
+6     33533   CABG, single arterial gr  $ 5000.00  $3598.74  $  0.00  $ 0.00      N004  $1614.75  $3598.74
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $  10635.00
+Total Allowed:    $   7856.16
+Total Deductible: $     98.70
+Total Copay:      $     50.00
+Total Adjustment: $   3115.99
+Total Paid:       $   7707.46
+Patient Responsibility: $    148.70
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+197: Precertification/authorization/notification absent
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N004: Claim submitted past deadline
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+MA130: Your claim contains incomplete or invalid info
+N362: Missing/incomplete/invalid demo info
+N432: Alert: Adjustment based on prior payer's allowance
+N657: Bill other payer first
+================================================================================

@@ -1,0 +1,51 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: UnitedHealthcare                          DATE: 10/05/2025
+PAYER ID: 87726                                  EOB NUMBER: EOB1400227853
+PLAN TYPE: PPO                                   TAX ID: 56-1232985
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Anderson, Mark                      Member ID: INS72939355
+Date of Birth: 08/24/1958               Group: GRP226607
+Patient Account: PAT741496              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: James Hall, MD           NPI: 1000014021
+Provider Address: 3472 Highland Ave
+San Antonio, TX 78201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1400200                Received Date: 09/08/2025
+Service From: 08/25/2025                Service To: 08/26/2025
+Place of Service: 81 - Independent Laboratory  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     80053   Comprehensive metabolic   $   25.00  $  21.28  $  0.00  $ 0.00         4  $   3.72  $  21.28
+2     80048   Basic metabolic panel     $   18.00  $   0.00  $  0.00  $ 0.00       197  $  18.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $     43.00
+Total Allowed:    $     21.28
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $     21.72
+Total Paid:       $     21.28
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+197: Precertification/authorization/notification absent
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N479: Missing/incomplete/invalid charge amount
+================================================================================

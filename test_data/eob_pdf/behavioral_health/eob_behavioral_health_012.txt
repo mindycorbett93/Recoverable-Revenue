@@ -1,0 +1,62 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicare Part B                           DATE: 12/25/2025
+PAYER ID: CMS                                    EOB NUMBER: EOB0501298332
+PLAN TYPE: Medicare                              TAX ID: 51-7369218
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Thompson, Elizabeth                 Member ID: INS78354979
+Date of Birth: 09/04/1972               Group: GRP892738
+Patient Account: PAT483900              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: James Young, DO          NPI: 1000005121
+Provider Address: 6343 Forest Dr
+San Diego, CA 92101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0501200                Received Date: 12/11/2025
+Service From: 11/21/2025                Service To: 11/22/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     90834   Psychotherapy, 45 minute  $  130.00  $   0.00  $  0.00  $ 0.00   16,N005  $ 130.00  $   0.00
+2     90853   Group psychotherapy       $   50.00  $  40.75  $  0.00  $ 0.00     197,2  $   9.25  $  40.75
+3     90846   Family psychotherapy wit  $  140.00  $   0.00  $  0.00  $ 0.00  N009,45,197  $ 140.00  $   0.00
+4     90833   Psychotherapy add-on, 30  $   65.00  $  44.05  $  0.00  $13.21  45,50,N005  $  31.02  $  30.84
+5     90792   Psych diagnostic eval wi  $  275.00  $   0.00  $  0.00  $ 0.00   50,N002  $ 275.00  $   0.00
+6     96127   Brief emotional/behavior  $    8.00  $   0.00  $  0.00  $ 0.00  N007,3,97  $   8.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    668.00
+Total Allowed:    $     84.80
+Total Deductible: $      0.00
+Total Copay:      $     13.21
+Total Adjustment: $    593.27
+Total Paid:       $     71.59
+Patient Responsibility: $     13.21
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+16: Claim/service lacks information needed for adjudication
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+N005: Patient coverage inactive at time of service
+N007: Incorrect modifier used for procedure
+N009: Patient responsibility - deductible not met
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N432: Alert: Adjustment based on prior payer's allowance
+N479: Missing/incomplete/invalid charge amount
+N95: This provider type/provider not eligible for this service
+================================================================================

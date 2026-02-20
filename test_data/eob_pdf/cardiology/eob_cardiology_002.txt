@@ -1,0 +1,57 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicare Part B                           DATE: 11/02/2025
+PAYER ID: CMS                                    EOB NUMBER: EOB0400279211
+PLAN TYPE: Medicare                              TAX ID: 39-6050762
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Wilson, George                    Member ID: PLN88973520
+Date of Birth: 05/17/1995               Group: GRP105088
+Patient Account: PAT314747              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Robert Thompson, DO      NPI: 1000004021
+Provider Address: 2862 Forest Dr
+Chicago, IL 60601
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0400200                Received Date: 10/04/2025
+Service From: 09/28/2025                Service To: 09/29/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     93350   Stress echocardiography   $  425.00  $ 366.02  $  0.00  $ 0.00         4  $  58.98  $ 366.02
+2     93453   Combined heart catheteri  $ 1500.00  $1124.52  $ 60.75  $40.00         4  $ 447.73  $1023.77
+3     99214   Office visit, establishe  $  145.00  $ 122.04  $  0.00  $36.61        45  $  22.96  $  85.43
+4     93017   Cardiovascular stress te  $  175.00  $ 126.14  $ 47.56  $ 0.00        18  $  78.30  $  78.58
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   2245.00
+Total Allowed:    $   1738.72
+Total Deductible: $    108.31
+Total Copay:      $     76.61
+Total Adjustment: $    607.97
+Total Paid:       $   1553.80
+Patient Responsibility: $    184.92
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+18: Exact duplicate claim/service
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+N381: Alert: Consult our website for fee schedule
+================================================================================

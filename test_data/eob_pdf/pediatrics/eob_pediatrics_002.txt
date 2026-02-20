@@ -1,0 +1,58 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Kaiser Permanente                         DATE: 01/17/2026
+PAYER ID: 91051                                  EOB NUMBER: EOB1300244851
+PLAN TYPE: HMO                                   TAX ID: 50-1724617
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Nelson, Donna                     Member ID: INS65167062
+Date of Birth: 06/11/1987               Group: GRP374573
+Patient Account: PAT575764              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Richard Smith, MD        NPI: 1000013021
+Provider Address: 4105 Highland Ave
+Fort Worth, TX 76101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1300200                Received Date: 01/05/2026
+Service From: 12/23/2025                Service To: 12/24/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99213   Office visit, establishe  $   95.00  $  58.09  $  0.00  $ 0.00       167  $  36.91  $  58.09
+2     90460   Immunization admin, firs  $   30.00  $  21.46  $  0.00  $ 0.00         2  $   8.54  $  21.46
+3     99394   Preventive visit, establ  $  175.00  $ 139.65  $  0.00  $ 0.00       197  $  35.35  $ 139.65
+4     99392   Preventive visit, establ  $  160.00  $ 127.25  $  0.00  $ 0.00         4  $  32.75  $ 127.25
+5     87880   Strep test, rapid         $   18.00  $  15.39  $  6.16  $ 0.00         1  $   2.61  $   9.23
+6     99173   Visual acuity screening   $   10.00  $   8.84  $  0.00  $ 0.00        45  $   1.16  $   8.84
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    488.00
+Total Allowed:    $    370.68
+Total Deductible: $      6.16
+Total Copay:      $      0.00
+Total Adjustment: $    117.32
+Total Paid:       $    364.52
+Patient Responsibility: $      6.16
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+N432: Alert: Adjustment based on prior payer's allowance
+N657: Bill other payer first
+N95: This provider type/provider not eligible for this service
+================================================================================

@@ -1,0 +1,52 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Humana                                    DATE: 02/13/2026
+PAYER ID: 61101                                  EOB NUMBER: EOB0901092131
+PLAN TYPE: HMO                                   TAX ID: 25-5577670
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Taylor, Kevin                     Member ID: GRP30227795
+Date of Birth: 05/13/1965               Group: GRP552779
+Patient Account: PAT139370              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Robert Smith, MD         NPI: 1000009101
+Provider Address: 4703 Park Dr
+Jacksonville, FL 32099
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0901000                Received Date: 01/21/2026
+Service From: 01/13/2026                Service To: 01/13/2026
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     76817   Transvaginal ultrasound,  $  225.00  $ 197.76  $  0.00  $ 0.00      N002  $  27.24  $ 197.76
+2     99214   Office visit, establishe  $  145.00  $ 130.70  $  0.00  $ 0.00      N009  $  14.30  $ 130.70
+3     58558   Hysteroscopy with biopsy  $  800.00  $   0.00  $  0.00  $ 0.00      N003  $ 800.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1170.00
+Total Allowed:    $    328.46
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    841.54
+Total Paid:       $    328.46
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N003: Authorization not obtained within required timeframe
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N95: This provider type/provider not eligible for this service
+================================================================================

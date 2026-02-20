@@ -1,0 +1,426 @@
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ELIGIBILITY INQUIRY / RESPONSE PAIR
+Practice Type : Internal Medicine
+Patient       : Hill, Margaret
+Member ID     : MEM25096293
+Provider      : James Lewis, MD (NPI: 1000021427)
+Payer         : Anthem (PPO)
+Date of Svc   : 20251001
+Scenario      : PREAUTH
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+270 - ELIGIBILITY INQUIRY REQUEST
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*1000021427     *ZZ*ANTM1          *260220*2333*^*00501*000001008*0*P*:~
+GS*HS*1000021427*ANTM1*20260220*2333*1008*X*005010X279A1~
+ST*270*010080*005010X279A1~
+BHT*0022*13*010080*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Anthem*****PI*ANTM1~
+HL*2*1*21*1~
+NM1*1P*1*Lewis*James****XX*1000021427~
+REF*4A*207R00000X~
+N3*9386 Medical Center Dr~
+N4*Fort Worth*TX*76101~
+PRV*PE*PXC*207R00000X~
+HL*3*2*22*0~
+TRN*1*11000021427010080*1000021427~
+NM1*IL*1*Hill*Margaret****MI*MEM25096293~
+REF*6P*PAT607054~
+N3*2848 Elm Blvd~
+N4*San Jose*CA*95101~
+DMG*D8*19500503*F~
+DTP*291*D8*20251001~
+EQ*30~
+EQ*1~
+EQ*48~
+EQ*50~
+SE*25*010080~
+GE*1*1008~
+IEA*1*000001008~
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+271 - ELIGIBILITY BENEFIT RESPONSE
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*ANTM1          *ZZ*1000021427     *260220*2333*^*00501*000001508*0*P*:~
+GS*HB*ANTM1*1000021427*20260220*2333*1508*X*005010X279A1~
+ST*271*010081*005010X279A1~
+BHT*0022*11*010081*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Anthem*****PI*ANTM1~
+PER*IC*CUSTOMER SERVICE*TE*8609422503*UR*www.anthemprovider.com~
+HL*2*1*21*1~
+NM1*1P*1*Lewis*James****XX*1000021427~
+REF*EO*ACTIVE~
+N3*5568 Medical Center Dr~
+N4*Los Angeles*CA*90001~
+HL*3*2*22*0~
+TRN*2*2ANTM1010081*ANTM1~
+NM1*IL*1*Hill*Margaret****MI*MEM25096293~
+N3*2848 Elm Blvd~
+N4*San Jose*CA*95101~
+DMG*D8*19500503*F~
+INS*Y*18*001*25~
+DTP*346*RD8*20240101-20251231~
+EB*1*IND***30**Bronze HDHP 5000~
+EB*D*IND***30****Bronze HDHP 5000~
+REF*18*GRP612673~
+DTP*291*RD8*20240101-20251231~
+EB*C*IND*30**DED*****1115.65~
+MSG*In-Network Individual Deductible~
+EB*C*FAM*30**DED*****2231.30~
+MSG*In-Network Family Deductible~
+EB*C*IND*30**DED_REMAINING*****969.97~
+MSG*In-Network Individual Deductible Remaining~
+EB*B*IND*30**COPAY*****26.68~
+MSG*In-Network Office Visit Copay~
+EB*B*IND*1**COPAY*****44.74~
+MSG*In-Network Specialist Visit Copay~
+EB*A*IND*30**COINSURANCE*****15~
+MSG*In-Network Coinsurance Percentage After Deductible~
+EB*G*IND*30**OOP_MAX*****5029.85~
+MSG*In-Network Individual Out-of-Pocket Maximum~
+EB*G*FAM*30**OOP_MAX*****10059.70~
+MSG*In-Network Family Out-of-Pocket Maximum~
+EB*G*IND*30**OOP_REMAINING*****3864.26~
+MSG*In-Network Individual Out-of-Pocket Remaining~
+REF*EO*ACTIVE~
+MSG*Provider NPI 1000021427 is in-network and actively enrolled with Anthem Bronze HDHP 5000. In-network benefits apply.~
+EB*1*IND*1~
+EB*B*IND*1**COPAY*****26.68~
+MSG*Medical Care - In-Network benefit covered~
+EB*1*IND*48~
+EB*A*IND*48**COINSURANCE*****15~
+MSG*Hospital - Inpatient subject to deductible then 15% coinsurance~
+MSG*Hospital - Inpatient - In-Network benefit covered~
+EB*1*IND*50~
+EB*A*IND*50**COINSURANCE*****15~
+MSG*Hospital - Outpatient - In-Network benefit covered~
+EB*1*IND*98~
+EB*B*IND*98**COPAY*****26.68~
+MSG*Professional (Physician) Visit - Office - In-Network benefit covered~
+EB*CB*IND***30~
+MSG*Pre-authorization/pre-certification required for select services. Contact Anthem Utilization Management.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Hospital Admission. Failure to obtain authorization may result in reduced or denied benefits.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Advanced Imaging (MRI/CT). Failure to obtain authorization may result in reduced or denied benefits.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Cardiac Stress Testing. Failure to obtain authorization may result in reduced or denied benefits.~
+MSG*Utilization Management Contact: 8113831881. Auth requests may be submitted via provider portal.~
+MSG*Eligibility response for Margaret Hill DOB 19500503 as of 20251001. Verify benefits for specific services. This is not a guarantee of payment.~
+SE*68*010081~
+GE*1*1508~
+IEA*1*000001508~

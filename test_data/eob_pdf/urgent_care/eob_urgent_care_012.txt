@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: UnitedHealthcare                          DATE: 12/10/2025
+PAYER ID: 87726                                  EOB NUMBER: EOB1201258050
+PLAN TYPE: PPO                                   TAX ID: 68-2129596
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Lopez, Kenneth                   Member ID: GRP79007262
+Date of Birth: 10/21/2005               Group: GRP551012
+Patient Account: PAT247605              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Thomas Smith, MD         NPI: 1000012121
+Provider Address: 307 River Rd
+Denver, CO 80201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1201200                Received Date: 11/22/2025
+Service From: 11/05/2025                Service To: 11/07/2025
+Place of Service: 20 - Urgent Care Facility  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     81002   Urinalysis, non-automate  $    8.00  $   4.88  $  0.00  $ 0.00      1,16  $   3.12  $   4.88
+2     99214   Office visit, establishe  $  145.00  $ 126.86  $ 29.55  $25.00  N002,1,4  $  67.52  $  72.31
+3     87880   Strep test, rapid         $   18.00  $  12.81  $  5.12  $ 0.00    N005,4  $  10.47  $   7.69
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    171.00
+Total Allowed:    $    144.55
+Total Deductible: $     34.67
+Total Copay:      $     25.00
+Total Adjustment: $     81.11
+Total Paid:       $     84.88
+Patient Responsibility: $     59.67
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N002: Provider not contracted with plan
+N005: Patient coverage inactive at time of service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N381: Alert: Consult our website for fee schedule
+================================================================================

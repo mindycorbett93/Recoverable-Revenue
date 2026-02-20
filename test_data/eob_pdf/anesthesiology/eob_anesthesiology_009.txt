@@ -1,0 +1,58 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicaid                                  DATE: 11/14/2025
+PAYER ID: MDCD                                   EOB NUMBER: EOB1100996670
+PLAN TYPE: Medicaid                              TAX ID: 21-1176603
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Nguyen, Mark                      Member ID: INS87035238
+Date of Birth: 09/18/1952               Group: GRP922118
+Patient Account: PAT287193              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Patricia Scott, MD PhD   NPI: 1000011091
+Provider Address: 5429 Main St
+Charlotte, NC 28201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1100900                Received Date: 10/20/2025
+Service From: 10/06/2025                Service To: 10/07/2025
+Place of Service: 21 - Inpatient Hospital  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99140   Anesthesia, emergency co  $  150.00  $ 100.39  $  0.00  $30.12        97  $  74.22  $  70.27
+2     00810   Anesthesia, lower GI pro  $  575.00  $ 493.80  $  0.00  $ 0.00         2  $  81.20  $ 493.80
+3     62323   Lumbar epidural injectio  $  350.00  $ 258.90  $  0.00  $ 0.00      N008  $  91.10  $ 258.90
+4     00540   Anesthesia, chest proced  $  750.00  $   0.00  $  0.00  $ 0.00        45  $ 750.00  $   0.00
+5     00100   Anesthesia, salivary gla  $  450.00  $ 399.76  $ 86.21  $ 0.00      N007  $ 121.84  $ 313.55
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   2275.00
+Total Allowed:    $   1252.85
+Total Deductible: $     86.21
+Total Copay:      $     30.12
+Total Adjustment: $   1118.36
+Total Paid:       $   1136.52
+Patient Responsibility: $    116.33
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+97: The benefit for this service is included in payment for another service
+N007: Incorrect modifier used for procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+N381: Alert: Consult our website for fee schedule
+================================================================================

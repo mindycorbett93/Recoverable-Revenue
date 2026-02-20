@@ -1,0 +1,62 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicare Part B                           DATE: 11/12/2025
+PAYER ID: CMS                                    EOB NUMBER: EOB0800466663
+PLAN TYPE: Medicare                              TAX ID: 51-6360728
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Young, Lisa                      Member ID: GRP20149645
+Date of Birth: 03/16/1989               Group: GRP569397
+Patient Account: PAT922858              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Elizabeth Johnson, DO    NPI: 1000008041
+Provider Address: 7926 Sunset Blvd
+Charlotte, NC 28201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0800400                Received Date: 10/29/2025
+Service From: 10/22/2025                Service To: 10/22/2025
+Place of Service: 24 - Ambulatory Surgical Center  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     43235   Upper GI endoscopy, diag  $  425.00  $   0.00  $  0.00  $ 0.00       167  $ 425.00  $   0.00
+2     76700   Abdominal ultrasound, co  $  175.00  $ 140.94  $  0.00  $42.28       197  $  56.43  $  98.66
+3     43247   EGD with foreign body re  $  550.00  $   0.00  $  0.00  $ 0.00        18  $ 550.00  $   0.00
+4     91035   Esophageal function test  $  175.00  $   0.00  $  0.00  $ 0.00       167  $ 175.00  $   0.00
+5     45378   Colonoscopy, diagnostic   $  650.00  $ 427.21  $  0.00  $ 0.00         4  $ 222.79  $ 427.21
+6     43239   Upper GI endoscopy with   $  500.00  $   0.00  $  0.00  $ 0.00         2  $ 500.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   2475.00
+Total Allowed:    $    568.15
+Total Deductible: $      0.00
+Total Copay:      $     42.28
+Total Adjustment: $   1929.22
+Total Paid:       $    525.87
+Patient Responsibility: $     42.28
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+167: This (these) diagnosis(es) is (are) not covered
+18: Exact duplicate claim/service
+197: Precertification/authorization/notification absent
+2: Coinsurance amount
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+N362: Missing/incomplete/invalid demo info
+N386: This decision was based on a Local Coverage Determination
+N657: Bill other payer first
+================================================================================

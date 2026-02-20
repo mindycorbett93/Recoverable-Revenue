@@ -1,0 +1,53 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Kaiser Permanente                         DATE: 10/05/2025
+PAYER ID: 91051                                  EOB NUMBER: EOB0300464833
+PLAN TYPE: HMO                                   TAX ID: 84-6031588
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Williams, Jason                     Member ID: MEM54720542
+Date of Birth: 05/04/1966               Group: GRP738731
+Patient Account: PAT748630              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: James Patel, MD FACS     NPI: 1000003041
+Provider Address: 2994 Hill St
+Dallas, TX 75201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0300400                Received Date: 09/16/2025
+Service From: 09/01/2025                Service To: 09/01/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     20610   Arthrocentesis, major jo  $  125.00  $  77.27  $  0.00  $ 0.00         3  $  47.73  $  77.27
+2     73221   MRI upper extremity join  $  425.00  $   0.00  $  0.00  $ 0.00        97  $ 425.00  $   0.00
+3     27786   Open treatment ankle fra  $  750.00  $ 617.72  $149.91  $ 0.00         1  $ 132.28  $ 467.81
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1300.00
+Total Allowed:    $    694.99
+Total Deductible: $    149.91
+Total Copay:      $      0.00
+Total Adjustment: $    605.01
+Total Paid:       $    545.08
+Patient Responsibility: $    149.91
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+97: The benefit for this service is included in payment for another service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+No additional remarks.
+================================================================================

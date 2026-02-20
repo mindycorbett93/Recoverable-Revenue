@@ -1,0 +1,58 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Anthem                                    DATE: 10/25/2025
+PAYER ID: ANTM1                                  EOB NUMBER: EOB1301194816
+PLAN TYPE: PPO                                   TAX ID: 91-9084678
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Thompson, Brian                     Member ID: MEM30102588
+Date of Birth: 09/20/1945               Group: GRP235495
+Patient Account: PAT288101              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Sarah Chen, DO FACP      NPI: 1000013111
+Provider Address: 8442 Market St
+Houston, TX 77001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1301100                Received Date: 10/11/2025
+Service From: 10/04/2025                Service To: 10/06/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     90460   Immunization admin, firs  $   30.00  $  18.13  $  7.25  $ 0.00    N008,4  $  16.79  $  10.88
+2     99391   Preventive visit, establ  $  150.00  $  92.02  $ 36.81  $ 0.00  167,N009  $  71.31  $  55.21
+3     87880   Strep test, rapid         $   18.00  $  14.30  $  0.00  $ 0.00  N006,18,167  $   8.55  $  14.30
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    198.00
+Total Allowed:    $    124.45
+Total Deductible: $     44.06
+Total Copay:      $      0.00
+Total Adjustment: $     96.65
+Total Paid:       $     80.39
+Patient Responsibility: $     44.06
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+167: This (these) diagnosis(es) is (are) not covered
+18: Exact duplicate claim/service
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N006: Duplicate submission detected by payer system
+N008: Service bundled with primary procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+N479: Missing/incomplete/invalid charge amount
+================================================================================

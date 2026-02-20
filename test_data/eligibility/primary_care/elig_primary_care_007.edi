@@ -1,0 +1,424 @@
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ELIGIBILITY INQUIRY / RESPONSE PAIR
+Practice Type : Primary Care
+Patient       : Lewis, Amanda
+Member ID     : INS56877789
+Provider      : Jennifer Martinez, DO (NPI: 1000020420)
+Payer         : Medicare Part B (Medicare)
+Date of Svc   : 20251027
+Scenario      : PREAUTH
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+270 - ELIGIBILITY INQUIRY REQUEST
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*1000020420     *ZZ*CMS            *260220*2333*^*00501*000000007*0*P*:~
+GS*HS*1000020420*CMS*20260220*2333*7*X*005010X279A1~
+ST*270*000070*005010X279A1~
+BHT*0022*13*000070*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Medicare Part B*****PI*CMS~
+HL*2*1*21*1~
+NM1*1P*1*Martinez*Jennifer****XX*1000020420~
+REF*4A*208D00000X~
+N3*6443 Medical Center Dr~
+N4*Seattle*WA*98101~
+PRV*PE*PXC*208D00000X~
+HL*3*2*22*0~
+TRN*1*11000020420000070*1000020420~
+NM1*IL*1*Lewis*Amanda****MI*INS56877789~
+REF*6P*PAT905786~
+N3*3625 Sunset Blvd~
+N4*Charlotte*NC*28201~
+DMG*D8*19730109*F~
+DTP*291*D8*20251027~
+EQ*30~
+EQ*1~
+EQ*35~
+EQ*48~
+SE*25*000070~
+GE*1*7~
+IEA*1*000000007~
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+271 - ELIGIBILITY BENEFIT RESPONSE
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*CMS            *ZZ*1000020420     *260220*2333*^*00501*000000507*0*P*:~
+GS*HB*CMS*1000020420*20260220*2333*507*X*005010X279A1~
+ST*271*000071*005010X279A1~
+BHT*0022*11*000071*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Medicare Part B*****PI*CMS~
+PER*IC*CUSTOMER SERVICE*TE*8253457195*UR*www.medicarepartbprovider.com~
+HL*2*1*21*1~
+NM1*1P*1*Martinez*Jennifer****XX*1000020420~
+REF*EO*ACTIVE~
+N3*4529 Medical Center Dr~
+N4*New York*NY*10001~
+HL*3*2*22*0~
+TRN*2*2CMS000071*CMS~
+NM1*IL*1*Lewis*Amanda****MI*INS56877789~
+N3*3625 Sunset Blvd~
+N4*Charlotte*NC*28201~
+DMG*D8*19730109*F~
+INS*Y*18*001*25~
+DTP*346*RD8*20220101-20251231~
+EB*1*IND***30**Essential Care HMO~
+EB*D*IND***30****Essential Care HMO~
+REF*18*GRP181406~
+DTP*291*RD8*20220101-20251231~
+EB*C*IND*30**DED*****2071.28~
+MSG*In-Network Individual Deductible~
+EB*C*FAM*30**DED*****4142.56~
+MSG*In-Network Family Deductible~
+EB*C*IND*30**DED_REMAINING*****1226.21~
+MSG*In-Network Individual Deductible Remaining~
+EB*B*IND*30**COPAY*****24.41~
+MSG*In-Network Office Visit Copay~
+EB*B*IND*1**COPAY*****51.77~
+MSG*In-Network Specialist Visit Copay~
+EB*A*IND*30**COINSURANCE*****10~
+MSG*In-Network Coinsurance Percentage After Deductible~
+EB*G*IND*30**OOP_MAX*****6319.80~
+MSG*In-Network Individual Out-of-Pocket Maximum~
+EB*G*FAM*30**OOP_MAX*****12639.60~
+MSG*In-Network Family Out-of-Pocket Maximum~
+EB*G*IND*30**OOP_REMAINING*****5605.18~
+MSG*In-Network Individual Out-of-Pocket Remaining~
+REF*EO*ACTIVE~
+MSG*Provider NPI 1000020420 is in-network and actively enrolled with Medicare Part B Essential Care HMO. In-network benefits apply.~
+EB*1*IND*1~
+EB*B*IND*1**COPAY*****24.41~
+MSG*Medical Care - In-Network benefit covered~
+EB*1*IND*35~
+EB*A*IND*35**COINSURANCE*****10~
+MSG*Dental Care - In-Network benefit covered~
+EB*1*IND*48~
+EB*A*IND*48**COINSURANCE*****10~
+MSG*Hospital - Inpatient subject to deductible then 10% coinsurance~
+MSG*Hospital - Inpatient - In-Network benefit covered~
+EB*1*IND*50~
+EB*A*IND*50**COINSURANCE*****10~
+MSG*Hospital - Outpatient - In-Network benefit covered~
+EB*CB*IND***30~
+MSG*Pre-authorization/pre-certification required for select services. Contact Medicare Part B Utilization Management.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Specialist Referral. Failure to obtain authorization may result in reduced or denied benefits.~
+EB*CB*IND***30~
+MSG*PRE-AUTH REQUIRED: Advanced Imaging (MRI/CT). Failure to obtain authorization may result in reduced or denied benefits.~
+MSG*Utilization Management Contact: 8273134960. Auth requests may be submitted via provider portal.~
+MSG*Eligibility response for Amanda Lewis DOB 19730109 as of 20251027. Verify benefits for specific services. This is not a guarantee of payment.~
+SE*66*000071~
+GE*1*507~
+IEA*1*000000507~

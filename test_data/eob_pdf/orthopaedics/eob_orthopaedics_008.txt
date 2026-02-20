@@ -1,0 +1,58 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Aetna                                     DATE: 11/21/2025
+PAYER ID: 60054                                  EOB NUMBER: EOB0300899888
+PLAN TYPE: PPO                                   TAX ID: 86-6620101
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Miller, Donna                     Member ID: PLN63432288
+Date of Birth: 10/28/1986               Group: GRP295050
+Patient Account: PAT615511              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: James Hall, MD           NPI: 1000003081
+Provider Address: 8671 Market St
+Charlotte, NC 28201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0300800                Received Date: 10/23/2025
+Service From: 10/11/2025                Service To: 10/13/2025
+Place of Service: 11 - Office            Claim Status: DENIED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     97140   Manual therapy technique  $   42.00  $   0.00  $  0.00  $ 0.00      N007  $  42.00  $   0.00
+2     73721   MRI lower extremity join  $  450.00  $   0.00  $  0.00  $ 0.00      N009  $ 450.00  $   0.00
+3     20680   Hardware removal, deep    $  650.00  $   0.00  $  0.00  $ 0.00      N004  $ 650.00  $   0.00
+4     97110   Therapeutic exercises     $   42.00  $   0.00  $  0.00  $ 0.00      N005  $  42.00  $   0.00
+5     27447   Total knee arthroplasty   $ 1800.00  $   0.00  $  0.00  $ 0.00      N004  $1800.00  $   0.00
+6     27786   Open treatment ankle fra  $  750.00  $   0.00  $  0.00  $ 0.00      N009  $ 750.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   3734.00
+Total Allowed:    $      0.00
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $   3734.00
+Total Paid:       $      0.00
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+N004: Claim submitted past deadline
+N005: Patient coverage inactive at time of service
+N007: Incorrect modifier used for procedure
+N009: Patient responsibility - deductible not met
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+MA04: Secondary payment cannot be considered
+================================================================================

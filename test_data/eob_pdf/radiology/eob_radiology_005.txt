@@ -1,0 +1,55 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Anthem                                    DATE: 12/25/2025
+PAYER ID: ANTM1                                  EOB NUMBER: EOB0600589175
+PLAN TYPE: PPO                                   TAX ID: 24-4864164
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Anderson, Emily                     Member ID: GRP97681196
+Date of Birth: 02/08/1967               Group: GRP208423
+Patient Account: PAT643348              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: David Kim, MD            NPI: 1000006051
+Provider Address: 6272 Park Dr
+Houston, TX 77001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0600500                Received Date: 12/08/2025
+Service From: 12/02/2025                Service To: 12/04/2025
+Place of Service: 22 - Outpatient Hospital  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     70553   MRI brain with/without c  $  650.00  $   0.00  $  0.00  $ 0.00         1  $ 650.00  $   0.00
+2     71250   CT chest without contras  $  350.00  $   0.00  $  0.00  $ 0.00         2  $ 350.00  $   0.00
+3     71046   Chest X-ray, 2 views      $   45.00  $   0.00  $  0.00  $ 0.00        16  $  45.00  $   0.00
+4     76830   Transvaginal ultrasound   $  225.00  $ 162.72  $  0.00  $ 0.00         2  $  62.28  $ 162.72
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1270.00
+Total Allowed:    $    162.72
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $   1107.28
+Total Paid:       $    162.72
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+16: Claim/service lacks information needed for adjudication
+2: Coinsurance amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+================================================================================
