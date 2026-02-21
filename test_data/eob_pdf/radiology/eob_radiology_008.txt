@@ -1,0 +1,58 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: UnitedHealthcare                          DATE: 10/21/2025
+PAYER ID: 87726                                  EOB NUMBER: EOB0600863267
+PLAN TYPE: PPO                                   TAX ID: 86-5838993
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Jackson, Donna                     Member ID: GRP48408019
+Date of Birth: 02/23/1980               Group: GRP507459
+Patient Account: PAT415325              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Rebecca Young, MD        NPI: 1000006081
+Provider Address: 1717 Highland Ave
+Fort Worth, TX 76101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0600800                Received Date: 09/24/2025
+Service From: 09/08/2025                Service To: 09/09/2025
+Place of Service: 22 - Outpatient Hospital  Claim Status: DENIED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     72148   MRI lumbar spine without  $  500.00  $   0.00  $  0.00  $ 0.00      N004  $ 500.00  $   0.00
+2     70551   MRI brain without contra  $  475.00  $   0.00  $  0.00  $ 0.00      N007  $ 475.00  $   0.00
+3     73721   MRI lower extremity join  $  450.00  $   0.00  $  0.00  $ 0.00      N004  $ 450.00  $   0.00
+4     74177   CT abdomen/pelvis with c  $  475.00  $   0.00  $  0.00  $ 0.00      N005  $ 475.00  $   0.00
+5     74176   CT abdomen/pelvis withou  $  400.00  $   0.00  $  0.00  $ 0.00      N001  $ 400.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   2300.00
+Total Allowed:    $      0.00
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $   2300.00
+Total Paid:       $      0.00
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+N001: Service not medically necessary per plan guidelines
+N004: Claim submitted past deadline
+N005: Patient coverage inactive at time of service
+N007: Incorrect modifier used for procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+N362: Missing/incomplete/invalid demo info
+N657: Bill other payer first
+================================================================================

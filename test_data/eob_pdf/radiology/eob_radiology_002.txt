@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicaid                                  DATE: 11/23/2025
+PAYER ID: MDCD                                   EOB NUMBER: EOB0600270956
+PLAN TYPE: Medicaid                              TAX ID: 69-4352230
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Hernandez, Timothy                   Member ID: MEM13735339
+Date of Birth: 01/22/1959               Group: GRP546790
+Patient Account: PAT290901              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Karen Hall, DO           NPI: 1000006021
+Provider Address: 2414 Cedar Ln
+Charlotte, NC 28201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0600200                Received Date: 11/01/2025
+Service From: 10/17/2025                Service To: 10/17/2025
+Place of Service: 22 - Outpatient Hospital  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     72148   MRI lumbar spine without  $  500.00  $ 447.93  $ 99.87  $ 0.00         4  $  97.02  $ 348.06
+2     71260   CT chest with contrast    $  425.00  $ 374.58  $ 27.32  $25.00         3  $  50.42  $ 322.26
+3     73221   MRI upper extremity join  $  425.00  $ 328.02  $  0.00  $ 0.00        45  $  96.98  $ 328.02
+4     76830   Transvaginal ultrasound   $  225.00  $ 141.51  $ 56.60  $ 0.00         1  $  83.49  $  84.91
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1575.00
+Total Allowed:    $   1292.04
+Total Deductible: $    183.79
+Total Copay:      $     25.00
+Total Adjustment: $    327.91
+Total Paid:       $   1083.25
+Patient Responsibility: $    208.79
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N381: Alert: Consult our website for fee schedule
+N432: Alert: Adjustment based on prior payer's allowance
+================================================================================

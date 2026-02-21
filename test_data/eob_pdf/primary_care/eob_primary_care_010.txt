@@ -1,0 +1,63 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Cigna                                     DATE: 10/27/2025
+PAYER ID: 62308                                  EOB NUMBER: EOB0001056264
+PLAN TYPE: PPO                                   TAX ID: 18-8850189
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Robinson, Donald                    Member ID: MEM39806654
+Date of Birth: 12/13/1962               Group: GRP273811
+Patient Account: PAT252745              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Rebecca Smith, DO FACP   NPI: 1000000101
+Provider Address: 9021 Elm Blvd
+Houston, TX 77001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0001000                Received Date: 10/05/2025
+Service From: 09/27/2025                Service To: 09/28/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99213   Office visit, establishe  $   95.00  $   0.00  $  0.00  $ 0.00      N003  $  95.00  $   0.00
+2     96372   Therapeutic injection, S  $   25.00  $  15.81  $  6.32  $ 4.74      N008  $  11.62  $   4.75
+3     99203   Office visit, new patien  $  130.00  $  83.42  $  0.00  $ 0.00        18  $  67.20  $  83.42
+4     99490   Chronic care management,  $   42.00  $  34.31  $  0.00  $ 0.00      N008  $   7.69  $  34.31
+5     36415   Venipuncture              $   10.00  $   9.04  $  3.62  $ 0.00      N004  $   1.92  $   5.42
+6     99385   Preventive visit, new, 1  $  200.00  $   0.00  $  0.00  $ 0.00      N008  $ 200.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    502.00
+Total Allowed:    $    142.58
+Total Deductible: $      9.94
+Total Copay:      $      4.74
+Total Adjustment: $    383.43
+Total Paid:       $    127.90
+Patient Responsibility: $     14.68
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+18: Exact duplicate claim/service
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N003: Authorization not obtained within required timeframe
+N004: Claim submitted past deadline
+N008: Service bundled with primary procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+MA04: Secondary payment cannot be considered
+N362: Missing/incomplete/invalid demo info
+N479: Missing/incomplete/invalid charge amount
+================================================================================

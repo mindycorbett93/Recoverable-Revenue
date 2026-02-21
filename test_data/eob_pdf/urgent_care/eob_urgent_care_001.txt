@@ -1,0 +1,55 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Cigna                                     DATE: 11/15/2025
+PAYER ID: 62308                                  EOB NUMBER: EOB1200114956
+PLAN TYPE: PPO                                   TAX ID: 24-9088221
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Martin, Melissa                   Member ID: INS22215441
+Date of Birth: 04/27/1952               Group: GRP409056
+Patient Account: PAT470953              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Patricia Johnson, DO     NPI: 1000012011
+Provider Address: 3173 Market St
+Chicago, IL 60601
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1200100                Received Date: 10/22/2025
+Service From: 10/15/2025                Service To: 10/17/2025
+Place of Service: 20 - Urgent Care Facility  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     71046   Chest X-ray, 2 views      $   45.00  $  29.64  $ 11.86  $ 8.89         1  $  15.36  $   8.89
+2     99283   ED visit, moderate sever  $  200.00  $ 177.14  $ 58.07  $20.00       197  $  54.61  $  99.07
+3     29125   Forearm splint applicati  $   85.00  $  75.45  $  0.00  $ 0.00         2  $   9.55  $  75.45
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    330.00
+Total Allowed:    $    282.23
+Total Deductible: $     69.93
+Total Copay:      $     28.89
+Total Adjustment: $     79.52
+Total Paid:       $    183.41
+Patient Responsibility: $     98.82
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+197: Precertification/authorization/notification absent
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N479: Missing/incomplete/invalid charge amount
+N657: Bill other payer first
+================================================================================

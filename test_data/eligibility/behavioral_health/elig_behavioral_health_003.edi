@@ -1,0 +1,418 @@
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ELIGIBILITY INQUIRY / RESPONSE PAIR
+Practice Type : Behavioral Health
+Patient       : Miller, Joshua
+Member ID     : MEM55905455
+Provider      : Thomas Brown, MD (NPI: 1000025392)
+Payer         : Medicare Part B (Medicare)
+Date of Svc   : 20251031
+Scenario      : STANDARD
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+270 - ELIGIBILITY INQUIRY REQUEST
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*1000025392     *ZZ*CMS            *260220*2333*^*00501*000005003*0*P*:~
+GS*HS*1000025392*CMS*20260220*2333*5003*X*005010X279A1~
+ST*270*050030*005010X279A1~
+BHT*0022*13*050030*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Medicare Part B*****PI*CMS~
+HL*2*1*21*1~
+NM1*1P*1*Brown*Thomas****XX*1000025392~
+REF*4A*103T00000X~
+N3*2648 Medical Center Dr~
+N4*Los Angeles*CA*90001~
+PRV*PE*PXC*103T00000X~
+HL*3*2*22*0~
+TRN*1*11000025392050030*1000025392~
+NM1*IL*1*Miller*Joshua****MI*MEM55905455~
+REF*6P*PAT210364~
+N3*4804 Lake Rd~
+N4*San Diego*CA*92101~
+DMG*D8*19981126*M~
+DTP*291*D8*20251031~
+EQ*30~
+EQ*MH~
+EQ*A4~
+EQ*98~
+SE*25*050030~
+GE*1*5003~
+IEA*1*000005003~
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+271 - ELIGIBILITY BENEFIT RESPONSE
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*CMS            *ZZ*1000025392     *260220*2333*^*00501*000005503*0*P*:~
+GS*HB*CMS*1000025392*20260220*2333*5503*X*005010X279A1~
+ST*271*050031*005010X279A1~
+BHT*0022*11*050031*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Medicare Part B*****PI*CMS~
+PER*IC*CUSTOMER SERVICE*TE*8124704597*UR*www.medicarepartbprovider.com~
+HL*2*1*21*1~
+NM1*1P*1*Brown*Thomas****XX*1000025392~
+REF*EO*ACTIVE~
+N3*5100 Medical Center Dr~
+N4*Fort Worth*TX*76101~
+HL*3*2*22*0~
+TRN*2*2CMS050031*CMS~
+NM1*IL*1*Miller*Joshua****MI*MEM55905455~
+N3*4804 Lake Rd~
+N4*San Diego*CA*92101~
+DMG*D8*19981126*M~
+INS*Y*18*001*25~
+DTP*346*RD8*20200101-20251231~
+EB*1*IND***30**Bronze HDHP 5000~
+EB*D*IND***30****Bronze HDHP 5000~
+REF*18*GRP396932~
+DTP*291*RD8*20200101-20251231~
+EB*C*IND*30**DED*****2173.04~
+MSG*In-Network Individual Deductible~
+EB*C*FAM*30**DED*****4346.08~
+MSG*In-Network Family Deductible~
+EB*C*IND*30**DED_REMAINING*****2119.25~
+MSG*In-Network Individual Deductible Remaining~
+EB*B*IND*30**COPAY*****22.56~
+MSG*In-Network Office Visit Copay~
+EB*B*IND*1**COPAY*****33.43~
+MSG*In-Network Specialist Visit Copay~
+EB*A*IND*30**COINSURANCE*****10~
+MSG*In-Network Coinsurance Percentage After Deductible~
+EB*G*IND*30**OOP_MAX*****6724.99~
+MSG*In-Network Individual Out-of-Pocket Maximum~
+EB*G*FAM*30**OOP_MAX*****13449.98~
+MSG*In-Network Family Out-of-Pocket Maximum~
+EB*G*IND*30**OOP_REMAINING*****2677.38~
+MSG*In-Network Individual Out-of-Pocket Remaining~
+REF*EO*ACTIVE~
+MSG*Provider NPI 1000025392 is in-network and actively enrolled with Medicare Part B Bronze HDHP 5000. In-network benefits apply.~
+EB*1*IND*MH~
+EB*B*IND*MH**COPAY*****48.31~
+MSG*Mental Health - visit limit may apply, see plan documents~
+MSG*Mental Health - In-Network benefit covered~
+EB*1*IND*A4~
+EB*B*IND*A4**COPAY*****35.45~
+MSG*Psychiatric - visit limit may apply, see plan documents~
+MSG*Psychiatric - In-Network benefit covered~
+EB*1*IND*98~
+EB*B*IND*98**COPAY*****22.56~
+MSG*Professional (Physician) Visit - Office - In-Network benefit covered~
+EB*1*IND*1~
+EB*B*IND*1**COPAY*****22.56~
+MSG*Medical Care - In-Network benefit covered~
+MSG*Eligibility response for Joshua Miller DOB 19981126 as of 20251031. Verify benefits for specific services. This is not a guarantee of payment.~
+SE*60*050031~
+GE*1*5503~
+IEA*1*000005503~

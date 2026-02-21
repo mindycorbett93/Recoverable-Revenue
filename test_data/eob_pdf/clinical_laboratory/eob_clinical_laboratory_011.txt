@@ -1,0 +1,55 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Humana                                    DATE: 10/03/2025
+PAYER ID: 61101                                  EOB NUMBER: EOB1401121056
+PLAN TYPE: HMO                                   TAX ID: 57-7568014
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Walker, David                     Member ID: MEM70454383
+Date of Birth: 09/06/1948               Group: GRP444552
+Patient Account: PAT631364              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Elizabeth Johnson, MD PhD  NPI: 1000014111
+Provider Address: 9204 Lake Rd
+Chicago, IL 60601
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1401100                Received Date: 09/09/2025
+Service From: 09/04/2025                Service To: 09/04/2025
+Place of Service: 81 - Independent Laboratory  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     84443   TSH                       $   25.00  $  22.56  $  0.00  $ 0.00  4,50,N001  $   2.44  $  22.56
+2     82607   Vitamin B-12              $   22.00  $  20.80  $  0.00  $ 0.00   N001,45  $   1.20  $  20.80
+3     80053   Comprehensive metabolic   $   25.00  $   0.00  $  0.00  $ 0.00   50,N010  $  25.00  $   0.00
+4     82947   Glucose, blood            $    8.00  $   7.06  $  2.82  $ 0.00       1,4  $   1.73  $   4.24
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $     80.00
+Total Allowed:    $     50.42
+Total Deductible: $      2.82
+Total Copay:      $      0.00
+Total Adjustment: $     30.37
+Total Paid:       $     47.60
+Patient Responsibility: $      2.82
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+================================================================================

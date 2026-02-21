@@ -1,0 +1,61 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicare Part B                           DATE: 12/29/2025
+PAYER ID: CMS                                    EOB NUMBER: EOB0800832635
+PLAN TYPE: Medicare                              TAX ID: 13-7968435
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Thomas, Andrew                    Member ID: PLN98872658
+Date of Birth: 10/16/2003               Group: GRP564962
+Patient Account: PAT216111              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Karen Robinson, MD       NPI: 1000008081
+Provider Address: 8610 Church St
+Phoenix, AZ 85001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0800800                Received Date: 12/15/2025
+Service From: 11/27/2025                Service To: 11/27/2025
+Place of Service: 24 - Ambulatory Surgical Center  Claim Status: DENIED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99214   Office visit, establishe  $  145.00  $   0.00  $  0.00  $ 0.00      N010  $ 145.00  $   0.00
+2     99215   Office visit, establishe  $  210.00  $   0.00  $  0.00  $ 0.00      N009  $ 210.00  $   0.00
+3     45378   Colonoscopy, diagnostic   $  650.00  $   0.00  $  0.00  $ 0.00      N009  $ 650.00  $   0.00
+4     76700   Abdominal ultrasound, co  $  175.00  $   0.00  $  0.00  $ 0.00      N001  $ 175.00  $   0.00
+5     45385   Colonoscopy with polyp r  $  850.00  $   0.00  $  0.00  $ 0.00      N003  $ 850.00  $   0.00
+6     45380   Colonoscopy with biopsy   $  750.00  $   0.00  $  0.00  $ 0.00      N002  $ 750.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   2780.00
+Total Allowed:    $      0.00
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $   2780.00
+Total Paid:       $      0.00
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+N001: Service not medically necessary per plan guidelines
+N002: Provider not contracted with plan
+N003: Authorization not obtained within required timeframe
+N009: Patient responsibility - deductible not met
+N010: Service exceeds plan benefit limits
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+N479: Missing/incomplete/invalid charge amount
+N657: Bill other payer first
+N95: This provider type/provider not eligible for this service
+================================================================================

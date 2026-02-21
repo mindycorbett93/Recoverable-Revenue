@@ -1,0 +1,55 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Cigna                                     DATE: 10/03/2025
+PAYER ID: 62308                                  EOB NUMBER: EOB0900271585
+PLAN TYPE: PPO                                   TAX ID: 67-6266874
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Baker, Jennifer                  Member ID: MEM20598720
+Date of Birth: 11/06/1988               Group: GRP874084
+Patient Account: PAT678035              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Michael Smith, MD PhD    NPI: 1000009021
+Provider Address: 2203 Main St
+Los Angeles, CA 90001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0900200                Received Date: 09/21/2025
+Service From: 09/03/2025                Service To: 09/05/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99213   Office visit, establishe  $   95.00  $  66.19  $  0.00  $ 0.00        16  $  28.81  $  66.19
+2     76817   Transvaginal ultrasound,  $  225.00  $ 162.32  $  0.00  $ 0.00       167  $  62.68  $ 162.32
+3     99205   Office visit, new patien  $  275.00  $ 237.82  $  0.00  $ 0.00        97  $  37.18  $ 237.82
+4     99384   Preventive visit, new, 1  $  175.00  $   0.00  $  0.00  $ 0.00         1  $ 175.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    770.00
+Total Allowed:    $    466.33
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    303.67
+Total Paid:       $    466.33
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+N432: Alert: Adjustment based on prior payer's allowance
+N479: Missing/incomplete/invalid charge amount
+================================================================================

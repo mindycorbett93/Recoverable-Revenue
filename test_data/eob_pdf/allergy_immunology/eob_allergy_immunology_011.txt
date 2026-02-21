@@ -1,0 +1,62 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Blue Cross Blue Shield                    DATE: 02/12/2026
+PAYER ID: BCBS1                                  EOB NUMBER: EOB0201155474
+PLAN TYPE: HMO                                   TAX ID: 64-4276303
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Young, Thomas                    Member ID: PLN22176746
+Date of Birth: 03/14/2002               Group: GRP175505
+Patient Account: PAT219118              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: John Walker, MD          NPI: 1000002111
+Provider Address: 9110 Elm Blvd
+Indianapolis, IN 46201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0201100                Received Date: 01/27/2026
+Service From: 01/19/2026                Service To: 01/21/2026
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     95004   Percutaneous allergy ski  $    8.00  $   0.00  $  0.00  $ 0.00  4,N008,167  $   8.00  $   0.00
+2     94375   Respiratory flow volume   $   35.00  $  23.44  $  0.00  $ 0.00    197,50  $  19.18  $  23.44
+3     94010   Spirometry                $   40.00  $   0.00  $  0.00  $ 0.00    2,N007  $  40.00  $   0.00
+4     95117   Allergen immunotherapy,   $   35.00  $  29.71  $ 11.88  $ 8.91  167,N003,18  $  18.09  $   8.92
+5     86005   Allergen specific IgE, q  $   15.00  $  11.43  $  0.00  $ 0.00  N002,197  $   3.57  $  11.43
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    133.00
+Total Allowed:    $     64.58
+Total Deductible: $     11.88
+Total Copay:      $      8.91
+Total Adjustment: $     88.84
+Total Paid:       $     43.79
+Patient Responsibility: $     20.79
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+167: This (these) diagnosis(es) is (are) not covered
+18: Exact duplicate claim/service
+197: Precertification/authorization/notification absent
+2: Coinsurance amount
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+N003: Authorization not obtained within required timeframe
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N432: Alert: Adjustment based on prior payer's allowance
+================================================================================

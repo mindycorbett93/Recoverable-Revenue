@@ -1,0 +1,55 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicare Part B                           DATE: 11/24/2025
+PAYER ID: CMS                                    EOB NUMBER: EOB0101081501
+PLAN TYPE: Medicare                              TAX ID: 47-1310078
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Anderson, George                    Member ID: GRP72975455
+Date of Birth: 03/02/2005               Group: GRP953604
+Patient Account: PAT127001              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: John Clark, MD           NPI: 1000001101
+Provider Address: 3569 College Ave
+Portland, OR 97201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0101000                Received Date: 10/28/2025
+Service From: 10/11/2025                Service To: 10/11/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99205   Office visit, new patien  $  275.00  $ 245.27  $  0.00  $ 0.00      N006  $  29.73  $ 245.27
+2     99496   Transitional care mgmt,   $  320.00  $   0.00  $  0.00  $ 0.00      N006  $ 320.00  $   0.00
+3     99223   Hospital admit, high com  $  350.00  $   0.00  $  0.00  $ 0.00         4  $ 350.00  $   0.00
+4     99214   Office visit, establishe  $  145.00  $ 103.19  $  0.00  $ 0.00      N005  $  41.81  $ 103.19
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1090.00
+Total Allowed:    $    348.46
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    741.54
+Total Paid:       $    348.46
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N006: Duplicate submission detected by payer system
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+N479: Missing/incomplete/invalid charge amount
+================================================================================

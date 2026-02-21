@@ -1,0 +1,53 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Cigna                                     DATE: 02/21/2026
+PAYER ID: 62308                                  EOB NUMBER: EOB0800326600
+PLAN TYPE: PPO                                   TAX ID: 69-3249527
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Garcia, Rebecca                   Member ID: GRP61433655
+Date of Birth: 12/14/2001               Group: GRP577309
+Patient Account: PAT587513              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Laura Scott, MD          NPI: 1000008031
+Provider Address: 2788 Forest Dr
+Columbus, OH 43085
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0800300                Received Date: 01/27/2026
+Service From: 01/18/2026                Service To: 01/20/2026
+Place of Service: 24 - Ambulatory Surgical Center  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     76700   Abdominal ultrasound, co  $  175.00  $   0.00  $  0.00  $ 0.00         4  $ 175.00  $   0.00
+2     43235   Upper GI endoscopy, diag  $  425.00  $ 358.11  $  0.00  $20.00        97  $ 115.14  $ 338.11
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    600.00
+Total Allowed:    $    358.11
+Total Deductible: $      0.00
+Total Copay:      $     20.00
+Total Adjustment: $    290.14
+Total Paid:       $    338.11
+Patient Responsibility: $     20.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+97: The benefit for this service is included in payment for another service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N479: Missing/incomplete/invalid charge amount
+================================================================================

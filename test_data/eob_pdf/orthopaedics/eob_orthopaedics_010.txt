@@ -1,0 +1,57 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Kaiser Permanente                         DATE: 11/16/2025
+PAYER ID: 91051                                  EOB NUMBER: EOB0301079096
+PLAN TYPE: HMO                                   TAX ID: 45-4279082
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Thomas, Carol                     Member ID: GRP78289164
+Date of Birth: 08/24/1961               Group: GRP127852
+Patient Account: PAT612973              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Angela Patel, DO FACP    NPI: 1000003101
+Provider Address: 8215 Pine St
+Phoenix, AZ 85001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0301000                Received Date: 10/18/2025
+Service From: 10/04/2025                Service To: 10/05/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99214   Office visit, establishe  $  145.00  $   0.00  $  0.00  $ 0.00        16  $ 145.00  $   0.00
+2     25600   Closed treatment distal   $  450.00  $ 349.26  $123.27  $ 0.00      N007  $ 118.54  $ 225.99
+3     20611   Arthrocentesis with ultr  $  155.00  $  95.16  $ 38.06  $ 0.00      N008  $  75.59  $  57.10
+4     97110   Therapeutic exercises     $   42.00  $  26.55  $ 10.62  $ 0.00       197  $  20.98  $  15.93
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    792.00
+Total Allowed:    $    470.97
+Total Deductible: $    171.95
+Total Copay:      $      0.00
+Total Adjustment: $    360.11
+Total Paid:       $    299.02
+Patient Responsibility: $    171.95
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+16: Claim/service lacks information needed for adjudication
+197: Precertification/authorization/notification absent
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N007: Incorrect modifier used for procedure
+N008: Service bundled with primary procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N95: This provider type/provider not eligible for this service
+================================================================================

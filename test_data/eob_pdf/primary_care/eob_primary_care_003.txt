@@ -1,0 +1,58 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Blue Cross Blue Shield                    DATE: 10/04/2025
+PAYER ID: BCBS1                                  EOB NUMBER: EOB0000310195
+PLAN TYPE: HMO                                   TAX ID: 72-6812337
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Johnson, Donna                     Member ID: MEM67144539
+Date of Birth: 05/02/1966               Group: GRP654706
+Patient Account: PAT665267              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Robert Walker, DO        NPI: 1000000031
+Provider Address: 8337 Church St
+Los Angeles, CA 90001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0000300                Received Date: 09/13/2025
+Service From: 08/28/2025                Service To: 08/30/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99396   Preventive visit, establ  $  190.00  $ 159.91  $ 63.96  $47.97         3  $  30.09  $  47.98
+2     99205   Office visit, new patien  $  275.00  $ 191.43  $  0.00  $ 0.00        45  $  83.57  $ 191.43
+3     G0438   Annual wellness visit, i  $  175.00  $ 154.30  $ 61.72  $30.00       167  $  56.78  $  62.58
+4     99213   Office visit, establishe  $   95.00  $  84.07  $  0.00  $ 0.00         4  $  10.93  $  84.07
+5     99203   Office visit, new patien  $  130.00  $   0.00  $  0.00  $ 0.00       167  $ 130.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    865.00
+Total Allowed:    $    589.71
+Total Deductible: $    125.68
+Total Copay:      $     77.97
+Total Adjustment: $    311.37
+Total Paid:       $    386.06
+Patient Responsibility: $    203.65
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+167: This (these) diagnosis(es) is (are) not covered
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N386: This decision was based on a Local Coverage Determination
+N432: Alert: Adjustment based on prior payer's allowance
+N657: Bill other payer first
+================================================================================

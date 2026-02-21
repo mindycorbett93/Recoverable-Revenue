@@ -1,0 +1,55 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Cigna                                     DATE: 01/21/2026
+PAYER ID: 62308                                  EOB NUMBER: EOB0300753253
+PLAN TYPE: PPO                                   TAX ID: 81-9652017
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Hall, Rebecca                   Member ID: MEM88171193
+Date of Birth: 01/13/1952               Group: GRP446071
+Patient Account: PAT740593              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Robert Lewis, MD         NPI: 1000003071
+Provider Address: 7129 Maple Dr
+Nashville, TN 37201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0300700                Received Date: 12/26/2025
+Service From: 12/08/2025                Service To: 12/09/2025
+Place of Service: 11 - Office            Claim Status: DENIED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     29881   Knee arthroscopy, menisc  $  950.00  $   0.00  $  0.00  $ 0.00      N002  $ 950.00  $   0.00
+2     27130   Total hip arthroplasty    $ 2000.00  $   0.00  $  0.00  $ 0.00      N002  $2000.00  $   0.00
+3     99214   Office visit, establishe  $  145.00  $   0.00  $  0.00  $ 0.00      N008  $ 145.00  $   0.00
+4     27786   Open treatment ankle fra  $  750.00  $   0.00  $  0.00  $ 0.00      N003  $ 750.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   3845.00
+Total Allowed:    $      0.00
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $   3845.00
+Total Paid:       $      0.00
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+N002: Provider not contracted with plan
+N003: Authorization not obtained within required timeframe
+N008: Service bundled with primary procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N479: Missing/incomplete/invalid charge amount
+N95: This provider type/provider not eligible for this service
+================================================================================

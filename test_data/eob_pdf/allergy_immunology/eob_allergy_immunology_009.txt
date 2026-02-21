@@ -1,0 +1,59 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicaid                                  DATE: 11/01/2025
+PAYER ID: MDCD                                   EOB NUMBER: EOB0200926287
+PLAN TYPE: Medicaid                              TAX ID: 57-7895330
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: White, Kenneth                   Member ID: PLN29875690
+Date of Birth: 09/01/2000               Group: GRP175924
+Patient Account: PAT361659              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Patricia Robinson, DO    NPI: 1000002091
+Provider Address: 2477 College Ave
+Houston, TX 77001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0200900                Received Date: 10/11/2025
+Service From: 10/04/2025                Service To: 10/04/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99213   Office visit, establishe  $   95.00  $  84.58  $  0.00  $ 0.00      N010  $  10.42  $  84.58
+2     95024   Intracutaneous allergy t  $   12.00  $   8.88  $  0.00  $ 0.00        16  $   3.12  $   8.88
+3     94375   Respiratory flow volume   $   35.00  $   0.00  $  0.00  $ 0.00      N008  $  35.00  $   0.00
+4     95115   Allergen immunotherapy,   $   20.00  $  15.87  $  0.00  $ 0.00         4  $   4.13  $  15.87
+5     99204   Office visit, new patien  $  200.00  $   0.00  $  0.00  $ 0.00      N002  $ 200.00  $   0.00
+6     95180   Rapid desensitization     $  250.00  $ 151.99  $  0.00  $ 0.00         2  $  98.01  $ 151.99
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    612.00
+Total Allowed:    $    261.32
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    350.68
+Total Paid:       $    261.32
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N002: Provider not contracted with plan
+N008: Service bundled with primary procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+MA130: Your claim contains incomplete or invalid info
+N479: Missing/incomplete/invalid charge amount
+N95: This provider type/provider not eligible for this service
+================================================================================

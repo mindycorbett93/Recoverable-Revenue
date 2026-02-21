@@ -1,0 +1,60 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Kaiser Permanente                         DATE: 12/29/2025
+PAYER ID: 91051                                  EOB NUMBER: EOB0000132904
+PLAN TYPE: HMO                                   TAX ID: 60-6867610
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Walker, Mark                      Member ID: INS81715696
+Date of Birth: 04/15/1941               Group: GRP554572
+Patient Account: PAT699159              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Christine Young, MD PhD  NPI: 1000000011
+Provider Address: 3023 Pine St
+San Antonio, TX 78201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0000100                Received Date: 12/05/2025
+Service From: 11/16/2025                Service To: 11/16/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99214   Office visit, establishe  $  145.00  $ 132.31  $ 52.92  $ 0.00        97  $  29.97  $  79.39
+2     G0438   Annual wellness visit, i  $  175.00  $ 160.20  $  0.00  $ 0.00        50  $  14.80  $ 160.20
+3     99490   Chronic care management,  $   42.00  $  27.56  $  0.00  $ 0.00       197  $  14.44  $  27.56
+4     G0439   Annual wellness visit, s  $  120.00  $   0.00  $  0.00  $ 0.00         4  $ 120.00  $   0.00
+5     99396   Preventive visit, establ  $  190.00  $ 154.08  $  0.00  $ 0.00        16  $  35.92  $ 154.08
+6     99203   Office visit, new patien  $  130.00  $  85.40  $ 34.16  $25.62         4  $  62.52  $  25.62
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    802.00
+Total Allowed:    $    559.55
+Total Deductible: $     87.08
+Total Copay:      $     25.62
+Total Adjustment: $    277.65
+Total Paid:       $    446.85
+Patient Responsibility: $    112.70
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+97: The benefit for this service is included in payment for another service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N362: Missing/incomplete/invalid demo info
+N479: Missing/incomplete/invalid charge amount
+N95: This provider type/provider not eligible for this service
+================================================================================

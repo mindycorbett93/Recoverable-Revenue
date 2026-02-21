@@ -1,0 +1,55 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Tricare                                   DATE: 10/20/2025
+PAYER ID: 99726                                  EOB NUMBER: EOB0701269557
+PLAN TYPE: Government                            TAX ID: 39-4859693
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Walker, Robert                    Member ID: MEM69343190
+Date of Birth: 07/11/1999               Group: GRP478234
+Patient Account: PAT896451              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Karen Williams, DO       NPI: 1000007121
+Provider Address: 5870 Main St
+San Diego, CA 92101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0701200                Received Date: 09/23/2025
+Service From: 09/16/2025                Service To: 09/16/2025
+Place of Service: 22 - Outpatient Hospital  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     88302   Surgical pathology, leve  $   75.00  $  53.38  $  0.00  $ 8.70      2,18  $  27.78  $  44.68
+2     87086   Urine culture             $   18.00  $  15.37  $  6.15  $ 4.61  2,N001,3  $   3.97  $   4.61
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $     93.00
+Total Allowed:    $     68.75
+Total Deductible: $      6.15
+Total Copay:      $     13.31
+Total Adjustment: $     31.75
+Total Paid:       $     49.29
+Patient Responsibility: $     19.46
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+18: Exact duplicate claim/service
+2: Coinsurance amount
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N001: Service not medically necessary per plan guidelines
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+================================================================================

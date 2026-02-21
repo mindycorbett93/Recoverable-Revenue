@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Humana                                    DATE: 11/04/2025
+PAYER ID: 61101                                  EOB NUMBER: EOB1200990857
+PLAN TYPE: HMO                                   TAX ID: 32-4907897
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Nelson, Joshua                    Member ID: GRP69661489
+Date of Birth: 04/28/1985               Group: GRP216581
+Patient Account: PAT738785              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: James Patel, DO          NPI: 1000012091
+Provider Address: 5917 Cedar Ln
+Chicago, IL 60601
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1200900                Received Date: 10/21/2025
+Service From: 10/03/2025                Service To: 10/04/2025
+Place of Service: 20 - Urgent Care Facility  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     12002   Simple wound repair, 2.6  $  225.00  $   0.00  $  0.00  $ 0.00        16  $ 225.00  $   0.00
+2     99214   Office visit, establishe  $  145.00  $  87.43  $  0.00  $ 0.00      N008  $  57.57  $  87.43
+3     36415   Venipuncture              $   10.00  $   7.00  $  0.00  $ 0.00      N005  $   4.47  $   7.00
+4     99203   Office visit, new patien  $  130.00  $   0.00  $  0.00  $ 0.00      N001  $ 130.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    510.00
+Total Allowed:    $     94.43
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    417.04
+Total Paid:       $     94.43
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+16: Claim/service lacks information needed for adjudication
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N001: Service not medically necessary per plan guidelines
+N005: Patient coverage inactive at time of service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+N95: This provider type/provider not eligible for this service
+================================================================================

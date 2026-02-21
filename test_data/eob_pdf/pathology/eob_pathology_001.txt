@@ -1,0 +1,59 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Kaiser Permanente                         DATE: 02/11/2026
+PAYER ID: 91051                                  EOB NUMBER: EOB0700196955
+PLAN TYPE: HMO                                   TAX ID: 71-8887807
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Lee, Kenneth                   Member ID: INS22712828
+Date of Birth: 06/03/1996               Group: GRP107377
+Patient Account: PAT942325              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: John Smith, MD           NPI: 1000007011
+Provider Address: 5197 Valley View Dr
+San Diego, CA 92101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0700100                Received Date: 01/26/2026
+Service From: 01/12/2026                Service To: 01/14/2026
+Place of Service: 22 - Outpatient Hospital  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     88305   Surgical pathology, leve  $  125.00  $   0.00  $  0.00  $ 0.00       167  $ 125.00  $   0.00
+2     88321   Consultation and report   $  175.00  $ 112.72  $  0.00  $ 0.00         3  $  62.28  $ 112.72
+3     88313   Special stain, Group II   $  100.00  $  89.43  $  0.00  $ 0.00        50  $  10.57  $  89.43
+4     88342   Immunohistochemistry      $  125.00  $ 100.68  $  0.00  $12.84         2  $  24.32  $  87.84
+5     85025   CBC with differential     $   15.00  $  13.56  $  0.00  $ 0.00        18  $   1.44  $  13.56
+6     87086   Urine culture             $   18.00  $  13.65  $  0.00  $ 0.00        18  $   5.09  $  13.65
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    558.00
+Total Allowed:    $    330.04
+Total Deductible: $      0.00
+Total Copay:      $     12.84
+Total Adjustment: $    228.70
+Total Paid:       $    317.20
+Patient Responsibility: $     12.84
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+167: This (these) diagnosis(es) is (are) not covered
+18: Exact duplicate claim/service
+2: Coinsurance amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N386: This decision was based on a Local Coverage Determination
+N432: Alert: Adjustment based on prior payer's allowance
+N657: Bill other payer first
+================================================================================

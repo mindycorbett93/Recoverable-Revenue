@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Tricare                                   DATE: 11/30/2025
+PAYER ID: 99726                                  EOB NUMBER: EOB0600645783
+PLAN TYPE: Government                            TAX ID: 74-2096963
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Hernandez, Richard                   Member ID: PLN11760206
+Date of Birth: 11/23/1948               Group: GRP510494
+Patient Account: PAT904196              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Richard Williams, MD     NPI: 1000006061
+Provider Address: 6908 Pine St
+Philadelphia, PA 19101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0600600                Received Date: 10/31/2025
+Service From: 10/15/2025                Service To: 10/17/2025
+Place of Service: 22 - Outpatient Hospital  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     70553   MRI brain with/without c  $  650.00  $   0.00  $  0.00  $ 0.00      N002  $ 650.00  $   0.00
+2     73221   MRI upper extremity join  $  425.00  $ 379.46  $  0.00  $ 0.00      N006  $  45.54  $ 379.46
+3     73721   MRI lower extremity join  $  450.00  $ 335.50  $  0.00  $ 0.00      N005  $ 180.91  $ 335.50
+4     76830   Transvaginal ultrasound   $  225.00  $   0.00  $  0.00  $ 0.00      N008  $ 225.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1750.00
+Total Allowed:    $    714.96
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $   1101.45
+Total Paid:       $    714.96
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N002: Provider not contracted with plan
+N005: Patient coverage inactive at time of service
+N008: Service bundled with primary procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N362: Missing/incomplete/invalid demo info
+N657: Bill other payer first
+================================================================================

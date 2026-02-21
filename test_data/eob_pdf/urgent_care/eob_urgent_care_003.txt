@@ -1,0 +1,60 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Anthem                                    DATE: 01/03/2026
+PAYER ID: ANTM1                                  EOB NUMBER: EOB1200324220
+PLAN TYPE: PPO                                   TAX ID: 83-6549532
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Rodriguez, Paul                      Member ID: PLN77995208
+Date of Birth: 07/11/1950               Group: GRP383183
+Patient Account: PAT962725              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Daniel Young, MD         NPI: 1000012031
+Provider Address: 4820 Oak Ave
+Houston, TX 77001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1200300                Received Date: 12/05/2025
+Service From: 11/28/2025                Service To: 11/29/2025
+Place of Service: 20 - Urgent Care Facility  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99203   Office visit, new patien  $  130.00  $   0.00  $  0.00  $ 0.00        16  $ 130.00  $   0.00
+2     99213   Office visit, establishe  $   95.00  $  63.47  $  0.00  $ 0.00        97  $  41.69  $  63.47
+3     99214   Office visit, establishe  $  145.00  $ 118.58  $ 47.40  $ 0.00        45  $  26.42  $  71.18
+4     87880   Strep test, rapid         $   18.00  $   0.00  $  0.00  $ 0.00        97  $  18.00  $   0.00
+5     99283   ED visit, moderate sever  $  200.00  $   0.00  $  0.00  $ 0.00         2  $ 200.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    588.00
+Total Allowed:    $    182.05
+Total Deductible: $     47.40
+Total Copay:      $      0.00
+Total Adjustment: $    416.11
+Total Paid:       $    134.65
+Patient Responsibility: $     47.40
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+16: Claim/service lacks information needed for adjudication
+2: Coinsurance amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+97: The benefit for this service is included in payment for another service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N362: Missing/incomplete/invalid demo info
+N386: This decision was based on a Local Coverage Determination
+N432: Alert: Adjustment based on prior payer's allowance
+N657: Bill other payer first
+================================================================================

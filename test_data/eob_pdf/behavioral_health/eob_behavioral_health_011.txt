@@ -1,0 +1,57 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Cigna                                     DATE: 11/13/2025
+PAYER ID: 62308                                  EOB NUMBER: EOB0501118947
+PLAN TYPE: PPO                                   TAX ID: 95-9915976
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Martin, Deborah                   Member ID: PLN21145801
+Date of Birth: 07/25/1948               Group: GRP853202
+Patient Account: PAT363272              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: David Chen, DO           NPI: 1000005111
+Provider Address: 6215 Park Dr
+Austin, TX 73301
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0501100                Received Date: 10/22/2025
+Service From: 10/03/2025                Service To: 10/05/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     90837   Psychotherapy, 60 minute  $  175.00  $ 143.33  $  0.00  $43.00      16,2  $  44.43  $ 100.33
+2     99213   Office visit, establishe  $   95.00  $   0.00  $  0.00  $ 0.00  N007,4,16  $  95.00  $   0.00
+3     90853   Group psychotherapy       $   50.00  $  42.35  $ 16.94  $ 0.00  4,N001,16  $  28.12  $  25.41
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    320.00
+Total Allowed:    $    185.68
+Total Deductible: $     16.94
+Total Copay:      $     43.00
+Total Adjustment: $    167.55
+Total Paid:       $    125.74
+Patient Responsibility: $     59.94
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+16: Claim/service lacks information needed for adjudication
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N001: Service not medically necessary per plan guidelines
+N007: Incorrect modifier used for procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N479: Missing/incomplete/invalid charge amount
+================================================================================

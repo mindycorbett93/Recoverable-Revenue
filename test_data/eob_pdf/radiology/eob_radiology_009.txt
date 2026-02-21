@@ -1,0 +1,58 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Anthem                                    DATE: 12/17/2025
+PAYER ID: ANTM1                                  EOB NUMBER: EOB0600950882
+PLAN TYPE: PPO                                   TAX ID: 63-3767316
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: King, Betty                     Member ID: INS65642929
+Date of Birth: 08/03/1971               Group: GRP335233
+Patient Account: PAT379265              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Sarah Thompson, DO       NPI: 1000006091
+Provider Address: 2823 College Ave
+New York, NY 10001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0600900                Received Date: 11/27/2025
+Service From: 11/14/2025                Service To: 11/15/2025
+Place of Service: 22 - Outpatient Hospital  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     74176   CT abdomen/pelvis withou  $  400.00  $ 281.70  $  0.00  $ 0.00        45  $ 118.30  $ 281.70
+2     71260   CT chest with contrast    $  425.00  $ 334.46  $  0.00  $ 0.00      N010  $  90.54  $ 334.46
+3     70553   MRI brain with/without c  $  650.00  $   0.00  $  0.00  $ 0.00      N007  $ 650.00  $   0.00
+4     77386   IMRT delivery, complex    $  350.00  $ 299.19  $ 93.40  $ 0.00         4  $ 120.04  $ 205.79
+5     77067   Screening mammography, b  $  175.00  $   0.00  $  0.00  $ 0.00         1  $ 175.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   2000.00
+Total Allowed:    $    915.35
+Total Deductible: $     93.40
+Total Copay:      $      0.00
+Total Adjustment: $   1153.88
+Total Paid:       $    821.95
+Patient Responsibility: $     93.40
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N007: Incorrect modifier used for procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N432: Alert: Adjustment based on prior payer's allowance
+N479: Missing/incomplete/invalid charge amount
+N657: Bill other payer first
+================================================================================

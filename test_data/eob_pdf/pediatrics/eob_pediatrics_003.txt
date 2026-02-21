@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Humana                                    DATE: 12/04/2025
+PAYER ID: 61101                                  EOB NUMBER: EOB1300352202
+PLAN TYPE: HMO                                   TAX ID: 56-5375814
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Williams, Dorothy                   Member ID: MEM20570695
+Date of Birth: 04/01/1947               Group: GRP951658
+Patient Account: PAT834211              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Daniel Young, DO FACP    NPI: 1000013031
+Provider Address: 1275 Maple Dr
+San Antonio, TX 78201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1300300                Received Date: 11/19/2025
+Service From: 11/03/2025                Service To: 11/04/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     90460   Immunization admin, firs  $   30.00  $  23.85  $  9.54  $ 0.00        45  $   6.15  $  14.31
+2     99394   Preventive visit, establ  $  175.00  $   0.00  $  0.00  $ 0.00         4  $ 175.00  $   0.00
+3     92551   Audiometry screening      $   20.00  $   0.00  $  0.00  $ 0.00         3  $  20.00  $   0.00
+4     99203   Office visit, new patien  $  130.00  $ 113.27  $  0.00  $ 0.00         1  $  16.73  $ 113.27
+5     96110   Developmental screening   $   15.00  $   0.00  $  0.00  $ 0.00        45  $  15.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    370.00
+Total Allowed:    $    137.12
+Total Deductible: $      9.54
+Total Copay:      $      0.00
+Total Adjustment: $    232.88
+Total Paid:       $    127.58
+Patient Responsibility: $      9.54
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N432: Alert: Adjustment based on prior payer's allowance
+================================================================================

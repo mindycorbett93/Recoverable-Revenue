@@ -1,0 +1,61 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicare Part B                           DATE: 10/12/2025
+PAYER ID: CMS                                    EOB NUMBER: EOB0200496569
+PLAN TYPE: Medicare                              TAX ID: 67-3829789
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Scott, Sharon                    Member ID: INS14841276
+Date of Birth: 10/26/1982               Group: GRP592915
+Patient Account: PAT500429              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: James Lewis, MD          NPI: 1000002041
+Provider Address: 889 Main St
+Seattle, WA 98101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0200400                Received Date: 10/01/2025
+Service From: 09/20/2025                Service To: 09/22/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     94375   Respiratory flow volume   $   35.00  $  28.56  $ 11.42  $ 0.00         4  $  10.17  $  17.14
+2     99214   Office visit, establishe  $  145.00  $  90.86  $ 36.34  $ 0.00       167  $  75.72  $  54.52
+3     94060   Bronchospasm evaluation   $   75.00  $   0.00  $  0.00  $ 0.00        18  $  75.00  $   0.00
+4     95044   Patch allergy test        $   10.00  $   6.34  $  2.54  $ 0.00        97  $   4.12  $   3.80
+5     86005   Allergen specific IgE, q  $   15.00  $  11.87  $  4.75  $ 3.56        16  $   5.70  $   3.56
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    280.00
+Total Allowed:    $    137.63
+Total Deductible: $     55.05
+Total Copay:      $      3.56
+Total Adjustment: $    170.71
+Total Paid:       $     79.02
+Patient Responsibility: $     58.61
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+16: Claim/service lacks information needed for adjudication
+167: This (these) diagnosis(es) is (are) not covered
+18: Exact duplicate claim/service
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+97: The benefit for this service is included in payment for another service
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+N381: Alert: Consult our website for fee schedule
+================================================================================

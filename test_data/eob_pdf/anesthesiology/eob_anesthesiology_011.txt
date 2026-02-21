@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Kaiser Permanente                         DATE: 11/23/2025
+PAYER ID: 91051                                  EOB NUMBER: EOB1101134949
+PLAN TYPE: HMO                                   TAX ID: 31-8393638
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Williams, Thomas                    Member ID: PLN77042625
+Date of Birth: 10/28/1991               Group: GRP352285
+Patient Account: PAT284054              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Richard Chen, MD         NPI: 1000011111
+Provider Address: 6040 Forest Dr
+Fort Worth, TX 76101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1101100                Received Date: 11/13/2025
+Service From: 11/01/2025                Service To: 11/03/2025
+Place of Service: 21 - Inpatient Hospital  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     00100   Anesthesia, salivary gla  $  450.00  $   0.00  $  0.00  $ 0.00  N007,2,45  $ 450.00  $   0.00
+2     01961   Anesthesia, cesarean del  $  650.00  $   0.00  $  0.00  $ 0.00      18,1  $ 650.00  $   0.00
+3     00400   Anesthesia, chest wall s  $  600.00  $ 540.29  $  0.00  $ 0.00  167,N006  $  59.71  $ 540.29
+4     64415   Brachial plexus nerve bl  $  300.00  $ 190.80  $  0.00  $ 0.00  2,18,N004  $ 109.20  $ 190.80
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   2000.00
+Total Allowed:    $    731.09
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $   1268.91
+Total Paid:       $    731.09
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+18: Exact duplicate claim/service
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N007: Incorrect modifier used for procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+N381: Alert: Consult our website for fee schedule
+N479: Missing/incomplete/invalid charge amount
+================================================================================

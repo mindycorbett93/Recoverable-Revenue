@@ -1,0 +1,55 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Kaiser Permanente                         DATE: 10/01/2025
+PAYER ID: 91051                                  EOB NUMBER: EOB0300294061
+PLAN TYPE: HMO                                   TAX ID: 15-5735487
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Robinson, Laura                     Member ID: INS37397562
+Date of Birth: 04/14/1974               Group: GRP144561
+Patient Account: PAT556664              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Laura Nguyen, MD         NPI: 1000003021
+Provider Address: 3127 Valley View Dr
+San Diego, CA 92101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0300200                Received Date: 09/12/2025
+Service From: 08/27/2025                Service To: 08/28/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     27447   Total knee arthroplasty   $ 1800.00  $1563.12  $  0.00  $40.00       167  $ 528.94  $1523.12
+2     27786   Open treatment ankle fra  $  750.00  $ 539.47  $  0.00  $ 0.00        18  $ 210.53  $ 539.47
+3     99214   Office visit, establishe  $  145.00  $  88.32  $  0.00  $ 0.00        18  $  56.68  $  88.32
+4     29881   Knee arthroscopy, menisc  $  950.00  $ 592.67  $  0.00  $ 0.00        18  $ 357.33  $ 592.67
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   3645.00
+Total Allowed:    $   2783.58
+Total Deductible: $      0.00
+Total Copay:      $     40.00
+Total Adjustment: $   1153.48
+Total Paid:       $   2743.58
+Patient Responsibility: $     40.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+167: This (these) diagnosis(es) is (are) not covered
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+N432: Alert: Adjustment based on prior payer's allowance
+================================================================================

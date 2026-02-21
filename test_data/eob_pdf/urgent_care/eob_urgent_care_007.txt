@@ -1,0 +1,60 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Anthem                                    DATE: 10/17/2025
+PAYER ID: ANTM1                                  EOB NUMBER: EOB1200745338
+PLAN TYPE: PPO                                   TAX ID: 96-4512953
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Sanchez, Deborah                   Member ID: GRP42127878
+Date of Birth: 02/25/1956               Group: GRP927346
+Patient Account: PAT391400              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: James Nguyen, MD         NPI: 1000012071
+Provider Address: 181 Highland Ave
+Charlotte, NC 28201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1200700                Received Date: 09/26/2025
+Service From: 09/18/2025                Service To: 09/19/2025
+Place of Service: 20 - Urgent Care Facility  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99204   Office visit, new patien  $  200.00  $   0.00  $  0.00  $ 0.00      N006  $ 200.00  $   0.00
+2     12001   Simple wound repair, up   $  175.00  $ 143.02  $ 25.38  $30.00      N006  $  60.35  $  87.64
+3     99281   ED visit, self-limited p  $   75.00  $   0.00  $  0.00  $ 0.00      N009  $  75.00  $   0.00
+4     87804   Influenza assay with opt  $   22.00  $  15.88  $  0.00  $ 0.00      N001  $   6.12  $  15.88
+5     99203   Office visit, new patien  $  130.00  $ 111.27  $  0.00  $ 0.00      N003  $  25.60  $ 111.27
+6     99213   Office visit, establishe  $   95.00  $   0.00  $  0.00  $ 0.00      N006  $  95.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    697.00
+Total Allowed:    $    270.17
+Total Deductible: $     25.38
+Total Copay:      $     30.00
+Total Adjustment: $    462.07
+Total Paid:       $    214.79
+Patient Responsibility: $     55.38
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N003: Authorization not obtained within required timeframe
+N006: Duplicate submission detected by payer system
+N009: Patient responsibility - deductible not met
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+N657: Bill other payer first
+================================================================================

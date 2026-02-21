@@ -1,0 +1,58 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicare Part B                           DATE: 02/02/2026
+PAYER ID: CMS                                    EOB NUMBER: EOB1000418519
+PLAN TYPE: Medicare                              TAX ID: 19-9407821
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Nelson, Daniel                    Member ID: MEM89894293
+Date of Birth: 05/20/1991               Group: GRP873239
+Patient Account: PAT848463              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Thomas Martinez, MD      NPI: 1000010041
+Provider Address: 1079 Spring Ln
+Chicago, IL 60601
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1000400                Received Date: 01/14/2026
+Service From: 12/31/2025                Service To: 01/02/2026
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     11102   Tangential biopsy of ski  $  125.00  $  99.76  $ 39.90  $ 0.00         1  $  25.24  $  59.86
+2     17000   Destruction, premalignan  $   75.00  $   0.00  $  0.00  $ 0.00       197  $  75.00  $   0.00
+3     17110   Destruction, benign lesi  $  100.00  $   0.00  $  0.00  $ 0.00         2  $ 100.00  $   0.00
+4     99203   Office visit, new patien  $  130.00  $ 100.40  $ 40.16  $ 0.00         1  $  29.60  $  60.24
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    430.00
+Total Allowed:    $    200.16
+Total Deductible: $     80.06
+Total Copay:      $      0.00
+Total Adjustment: $    229.84
+Total Paid:       $    120.10
+Patient Responsibility: $     80.06
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+197: Precertification/authorization/notification absent
+2: Coinsurance amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+N381: Alert: Consult our website for fee schedule
+N657: Bill other payer first
+N95: This provider type/provider not eligible for this service
+================================================================================

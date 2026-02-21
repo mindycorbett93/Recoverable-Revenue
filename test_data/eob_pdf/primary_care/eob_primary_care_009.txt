@@ -1,0 +1,55 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicaid                                  DATE: 10/20/2025
+PAYER ID: MDCD                                   EOB NUMBER: EOB0000922503
+PLAN TYPE: Medicaid                              TAX ID: 94-2397269
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Garcia, George                    Member ID: PLN30104244
+Date of Birth: 11/19/2001               Group: GRP830446
+Patient Account: PAT313563              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Michael Wright, MD       NPI: 1000000091
+Provider Address: 7577 Church St
+Austin, TX 73301
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0000900                Received Date: 09/29/2025
+Service From: 09/17/2025                Service To: 09/19/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99396   Preventive visit, establ  $  190.00  $   0.00  $  0.00  $ 0.00         1  $ 190.00  $   0.00
+2     99215   Office visit, establishe  $  210.00  $ 164.74  $  0.00  $ 0.00        45  $  45.26  $ 164.74
+3     99214   Office visit, establishe  $  145.00  $   0.00  $  0.00  $ 0.00      N010  $ 145.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    545.00
+Total Allowed:    $    164.74
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    380.26
+Total Paid:       $    164.74
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N010: Service exceeds plan benefit limits
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N362: Missing/incomplete/invalid demo info
+N432: Alert: Adjustment based on prior payer's allowance
+N657: Bill other payer first
+================================================================================

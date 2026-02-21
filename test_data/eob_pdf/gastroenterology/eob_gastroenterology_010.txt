@@ -1,0 +1,63 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Anthem                                    DATE: 10/18/2025
+PAYER ID: ANTM1                                  EOB NUMBER: EOB0801067038
+PLAN TYPE: PPO                                   TAX ID: 19-4476654
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Flores, Carol                     Member ID: MEM94216601
+Date of Birth: 06/14/1994               Group: GRP624747
+Patient Account: PAT560724              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Richard Williams, MD     NPI: 1000008101
+Provider Address: 6498 Lake Rd
+Philadelphia, PA 19101
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0801000                Received Date: 10/05/2025
+Service From: 09/19/2025                Service To: 09/20/2025
+Place of Service: 24 - Ambulatory Surgical Center  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     45380   Colonoscopy with biopsy   $  750.00  $ 611.16  $ 75.65  $ 0.00      N002  $ 231.99  $ 535.51
+2     45385   Colonoscopy with polyp r  $  850.00  $ 799.83  $123.63  $20.00      N005  $ 227.42  $ 656.20
+3     91034   Esophageal reflux test    $  200.00  $   0.00  $  0.00  $ 0.00      N008  $ 200.00  $   0.00
+4     99214   Office visit, establishe  $  145.00  $   0.00  $  0.00  $ 0.00        18  $ 145.00  $   0.00
+5     43249   Esophagogastroduodenosco  $  600.00  $   0.00  $  0.00  $ 0.00         2  $ 600.00  $   0.00
+6     45378   Colonoscopy, diagnostic   $  650.00  $   0.00  $  0.00  $ 0.00      N007  $ 650.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   3195.00
+Total Allowed:    $   1410.99
+Total Deductible: $    199.28
+Total Copay:      $     20.00
+Total Adjustment: $   2054.41
+Total Paid:       $   1191.71
+Patient Responsibility: $    219.28
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+18: Exact duplicate claim/service
+2: Coinsurance amount
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N002: Provider not contracted with plan
+N005: Patient coverage inactive at time of service
+N007: Incorrect modifier used for procedure
+N008: Service bundled with primary procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N479: Missing/incomplete/invalid charge amount
+N657: Bill other payer first
+================================================================================

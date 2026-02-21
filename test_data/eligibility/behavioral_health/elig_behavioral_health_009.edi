@@ -1,0 +1,422 @@
+
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+ELIGIBILITY INQUIRY / RESPONSE PAIR
+Practice Type : Behavioral Health
+Patient       : Clark, Rebecca
+Member ID     : MEM13627071
+Provider      : Thomas Anderson, MD (NPI: 1000025434)
+Payer         : Anthem (PPO)
+Date of Svc   : 20251017
+Scenario      : HIGH DEDUCTIBLE
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+270 - ELIGIBILITY INQUIRY REQUEST
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*1000025434     *ZZ*ANTM1          *260220*2333*^*00501*000005009*0*P*:~
+GS*HS*1000025434*ANTM1*20260220*2333*5009*X*005010X279A1~
+ST*270*050090*005010X279A1~
+BHT*0022*13*050090*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Anthem*****PI*ANTM1~
+HL*2*1*21*1~
+NM1*1P*1*Anderson*Thomas****XX*1000025434~
+REF*4A*103T00000X~
+N3*5762 Medical Center Dr~
+N4*New York*NY*10001~
+PRV*PE*PXC*103T00000X~
+HL*3*2*22*0~
+TRN*1*11000025434050090*1000025434~
+NM1*IL*1*Clark*Rebecca****MI*MEM13627071~
+REF*6P*PAT865907~
+N3*3140 Valley View Dr~
+N4*San Antonio*TX*78201~
+DMG*D8*19951013*F~
+DTP*291*D8*20251017~
+EQ*30~
+EQ*MH~
+EQ*A4~
+EQ*98~
+SE*25*050090~
+GE*1*5009~
+IEA*1*000005009~
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+271 - ELIGIBILITY BENEFIT RESPONSE
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ISA*00*          *00*          *ZZ*ANTM1          *ZZ*1000025434     *260220*2333*^*00501*000005509*0*P*:~
+GS*HB*ANTM1*1000025434*20260220*2333*5509*X*005010X279A1~
+ST*271*050091*005010X279A1~
+BHT*0022*11*050091*20260220*2333~
+HL*1**20*1~
+NM1*PR*2*Anthem*****PI*ANTM1~
+PER*IC*CUSTOMER SERVICE*TE*8708444358*UR*www.anthemprovider.com~
+HL*2*1*21*1~
+NM1*1P*1*Anderson*Thomas****XX*1000025434~
+REF*EO*ACTIVE~
+N3*6037 Medical Center Dr~
+N4*Columbus*OH*43085~
+HL*3*2*22*0~
+TRN*2*2ANTM1050091*ANTM1~
+NM1*IL*1*Clark*Rebecca****MI*MEM13627071~
+N3*3140 Valley View Dr~
+N4*San Antonio*TX*78201~
+DMG*D8*19951013*F~
+INS*Y*18*001*25~
+DTP*346*RD8*20230101-20251231~
+EB*1*IND***30**Bronze HDHP 5000~
+EB*D*IND***30****Bronze HDHP 5000~
+REF*18*GRP534195~
+DTP*291*RD8*20230101-20251231~
+EB*C*IND*30**DED*****7838.28~
+MSG*In-Network Individual Deductible~
+EB*C*FAM*30**DED*****15676.56~
+MSG*In-Network Family Deductible~
+EB*C*IND*30**DED_REMAINING*****6567.11~
+MSG*In-Network Individual Deductible Remaining~
+EB*B*IND*30**COPAY*****74.67~
+MSG*In-Network Office Visit Copay~
+EB*B*IND*1**COPAY*****101.92~
+MSG*In-Network Specialist Visit Copay~
+EB*A*IND*30**COINSURANCE*****50~
+MSG*In-Network Coinsurance Percentage After Deductible~
+EB*G*IND*30**OOP_MAX*****12911.10~
+MSG*In-Network Individual Out-of-Pocket Maximum~
+EB*G*FAM*30**OOP_MAX*****25822.20~
+MSG*In-Network Family Out-of-Pocket Maximum~
+EB*G*IND*30**OOP_REMAINING*****7926.86~
+MSG*In-Network Individual Out-of-Pocket Remaining~
+REF*EO*ACTIVE~
+MSG*Provider NPI 1000025434 is in-network and actively enrolled with Anthem Bronze HDHP 5000. In-network benefits apply.~
+EB*1*IND*MH~
+EB*B*IND*MH**COPAY*****39.06~
+MSG*Mental Health - visit limit may apply, see plan documents~
+MSG*Mental Health - In-Network benefit covered~
+EB*1*IND*A4~
+EB*B*IND*A4**COPAY*****38.81~
+MSG*Psychiatric - visit limit may apply, see plan documents~
+MSG*Psychiatric - In-Network benefit covered~
+EB*1*IND*98~
+EB*B*IND*98**COPAY*****74.67~
+MSG*Professional (Physician) Visit - Office - In-Network benefit covered~
+EB*1*IND*1~
+EB*B*IND*1**COPAY*****74.67~
+MSG*Medical Care - In-Network benefit covered~
+EB*CB*IND***30~
+MSG*HIGH DEDUCTIBLE HEALTH PLAN: Individual deductible of $7838.28 must be met before plan pays. Preventive services covered at 100%. Remaining deductible: $6567.11.~
+MSG*BENEFIT LIMITATION: After deductible, plan pays 50% for in-network services. Member responsible for 50% coinsurance up to OOP max.~
+MSG*This plan is HSA-eligible. Member may have HSA funds available for qualified medical expenses.~
+MSG*Eligibility response for Rebecca Clark DOB 19951013 as of 20251017. Verify benefits for specific services. This is not a guarantee of payment.~
+SE*64*050091~
+GE*1*5509~
+IEA*1*000005509~

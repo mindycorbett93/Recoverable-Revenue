@@ -1,0 +1,59 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Anthem                                    DATE: 10/20/2025
+PAYER ID: ANTM1                                  EOB NUMBER: EOB1400190540
+PLAN TYPE: PPO                                   TAX ID: 72-7347879
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Brown, Sharon                    Member ID: GRP27974394
+Date of Birth: 08/27/1949               Group: GRP883866
+Patient Account: PAT566131              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Thomas Lewis, MD         NPI: 1000014011
+Provider Address: 9166 Valley View Dr
+Nashville, TN 37201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1400100                Received Date: 09/22/2025
+Service From: 09/06/2025                Service To: 09/07/2025
+Place of Service: 81 - Independent Laboratory  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     85027   CBC without differential  $   12.00  $  10.60  $  0.00  $ 0.00        18  $   1.40  $  10.60
+2     82607   Vitamin B-12              $   22.00  $  13.59  $  5.44  $ 4.08         2  $   8.41  $   4.07
+3     80061   Lipid panel               $   22.00  $  14.83  $  0.00  $ 0.00       197  $   7.17  $  14.83
+4     87491   Chlamydia, nucleic acid   $   35.00  $   0.00  $  0.00  $ 0.00       197  $  35.00  $   0.00
+5     82306   Vitamin D, 25-hydroxy     $   45.00  $  41.50  $  0.00  $ 0.00         3  $   3.50  $  41.50
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    136.00
+Total Allowed:    $     80.52
+Total Deductible: $      5.44
+Total Copay:      $      4.08
+Total Adjustment: $     55.48
+Total Paid:       $     71.00
+Patient Responsibility: $      9.52
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+197: Precertification/authorization/notification absent
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+N381: Alert: Consult our website for fee schedule
+N386: This decision was based on a Local Coverage Determination
+N432: Alert: Adjustment based on prior payer's allowance
+================================================================================

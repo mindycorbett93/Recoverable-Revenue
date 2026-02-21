@@ -1,0 +1,55 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Cigna                                     DATE: 11/06/2025
+PAYER ID: 62308                                  EOB NUMBER: EOB1200459874
+PLAN TYPE: PPO                                   TAX ID: 79-1359377
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Nelson, Lisa                      Member ID: GRP48575560
+Date of Birth: 12/18/1960               Group: GRP996161
+Patient Account: PAT496885              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: John Robinson, MD        NPI: 1000012041
+Provider Address: 1476 Pine St
+Dallas, TX 75201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1200400                Received Date: 10/15/2025
+Service From: 09/29/2025                Service To: 09/29/2025
+Place of Service: 20 - Urgent Care Facility  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     12002   Simple wound repair, 2.6  $  225.00  $ 198.28  $  0.00  $50.00         3  $  26.72  $ 148.28
+2     87880   Strep test, rapid         $   18.00  $  12.90  $  5.16  $ 3.87        50  $   5.98  $   3.87
+3     99214   Office visit, establishe  $  145.00  $ 114.29  $  0.00  $34.29         4  $  54.13  $  80.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    388.00
+Total Allowed:    $    325.47
+Total Deductible: $      5.16
+Total Copay:      $     88.16
+Total Adjustment: $     86.83
+Total Paid:       $    232.15
+Patient Responsibility: $     93.32
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+3: Copay amount
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+50: These are non-covered services
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N381: Alert: Consult our website for fee schedule
+================================================================================

@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Aetna                                     DATE: 10/02/2025
+PAYER ID: 60054                                  EOB NUMBER: EOB1000374782
+PLAN TYPE: PPO                                   TAX ID: 11-7934974
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: King, Deborah                   Member ID: INS84665859
+Date of Birth: 09/11/1967               Group: GRP747904
+Patient Account: PAT727521              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: John Kim, DO FACP        NPI: 1000010031
+Provider Address: 2269 Hill St
+Portland, OR 97201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM1000300                Received Date: 09/09/2025
+Service From: 09/02/2025                Service To: 09/02/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     11600   Excision, malignant lesi  $  275.00  $ 245.95  $ 98.38  $20.00         3  $  29.05  $ 127.57
+2     17110   Destruction, benign lesi  $  100.00  $  61.11  $  0.00  $ 0.00         4  $  38.89  $  61.11
+3     96920   Laser treatment, skin, f  $  200.00  $ 180.92  $  0.00  $ 0.00       167  $  19.08  $ 180.92
+4     17311   Mohs surgery, first stag  $  750.00  $ 463.95  $  0.00  $50.00        16  $ 382.41  $ 413.95
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1325.00
+Total Allowed:    $    951.93
+Total Deductible: $     98.38
+Total Copay:      $     70.00
+Total Adjustment: $    469.43
+Total Paid:       $    783.55
+Patient Responsibility: $    168.38
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+16: Claim/service lacks information needed for adjudication
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA130: Your claim contains incomplete or invalid info
+N381: Alert: Consult our website for fee schedule
+================================================================================

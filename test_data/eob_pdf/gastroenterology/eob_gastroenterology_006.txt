@@ -1,0 +1,59 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Anthem                                    DATE: 10/17/2025
+PAYER ID: ANTM1                                  EOB NUMBER: EOB0800651463
+PLAN TYPE: PPO                                   TAX ID: 65-2683675
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Walker, Christopher               Member ID: PLN68347326
+Date of Birth: 11/13/1943               Group: GRP439352
+Patient Account: PAT341191              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Jennifer Young, MD       NPI: 1000008061
+Provider Address: 5873 Elm Blvd
+Indianapolis, IN 46201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0800600                Received Date: 09/23/2025
+Service From: 09/10/2025                Service To: 09/10/2025
+Place of Service: 24 - Ambulatory Surgical Center  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     43249   Esophagogastroduodenosco  $  600.00  $   0.00  $  0.00  $ 0.00      N004  $ 600.00  $   0.00
+2     99205   Office visit, new patien  $  275.00  $ 174.94  $ 69.98  $ 0.00      N005  $ 115.78  $ 104.96
+3     43235   Upper GI endoscopy, diag  $  425.00  $ 332.35  $  0.00  $ 0.00      N003  $ 171.79  $ 332.35
+4     99214   Office visit, establishe  $  145.00  $   0.00  $  0.00  $ 0.00      N003  $ 145.00  $   0.00
+5     91010   Esophageal motility stud  $  225.00  $   0.00  $  0.00  $ 0.00      N010  $ 225.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1670.00
+Total Allowed:    $    507.29
+Total Deductible: $     69.98
+Total Copay:      $      0.00
+Total Adjustment: $   1257.57
+Total Paid:       $    437.31
+Patient Responsibility: $     69.98
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+N003: Authorization not obtained within required timeframe
+N004: Claim submitted past deadline
+N005: Patient coverage inactive at time of service
+N010: Service exceeds plan benefit limits
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+N381: Alert: Consult our website for fee schedule
+================================================================================

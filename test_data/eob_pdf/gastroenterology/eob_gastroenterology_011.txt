@@ -1,0 +1,56 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicare Part B                           DATE: 02/13/2026
+PAYER ID: CMS                                    EOB NUMBER: EOB0801113978
+PLAN TYPE: Medicare                              TAX ID: 66-3277897
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Clark, James                     Member ID: MEM10073732
+Date of Birth: 09/21/1998               Group: GRP200665
+Patient Account: PAT948198              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Daniel Scott, MD         NPI: 1000008111
+Provider Address: 5797 Forest Dr
+Columbus, OH 43085
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0801100                Received Date: 01/26/2026
+Service From: 01/12/2026                Service To: 01/12/2026
+Place of Service: 24 - Ambulatory Surgical Center  Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     43249   Esophagogastroduodenosco  $  600.00  $ 521.77  $  0.00  $30.00      2,97  $ 116.06  $ 491.77
+2     99205   Office visit, new patien  $  275.00  $   0.00  $  0.00  $ 0.00    N003,1  $ 275.00  $   0.00
+3     45378   Colonoscopy, diagnostic   $  650.00  $   0.00  $  0.00  $ 0.00   N007,18  $ 650.00  $   0.00
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $   1525.00
+Total Allowed:    $    521.77
+Total Deductible: $      0.00
+Total Copay:      $     30.00
+Total Adjustment: $   1041.06
+Total Paid:       $    491.77
+Patient Responsibility: $     30.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+97: The benefit for this service is included in payment for another service
+N003: Authorization not obtained within required timeframe
+N007: Incorrect modifier used for procedure
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+N381: Alert: Consult our website for fee schedule
+N657: Bill other payer first
+================================================================================

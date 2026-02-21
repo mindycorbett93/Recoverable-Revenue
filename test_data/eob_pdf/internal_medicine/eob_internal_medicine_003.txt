@@ -1,0 +1,53 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Medicaid                                  DATE: 01/01/2026
+PAYER ID: MDCD                                   EOB NUMBER: EOB0100357817
+PLAN TYPE: Medicaid                              TAX ID: 70-1170241
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Hill, Mark                      Member ID: GRP61676932
+Date of Birth: 11/27/1960               Group: GRP839605
+Patient Account: PAT158159              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Rebecca Young, MD        NPI: 1000001031
+Provider Address: 382 Highland Ave
+New York, NY 10001
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0100300                Received Date: 12/19/2025
+Service From: 11/29/2025                Service To: 12/01/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99495   Transitional care mgmt,   $  250.00  $   0.00  $  0.00  $ 0.00        16  $ 250.00  $   0.00
+2     99213   Office visit, establishe  $   95.00  $   0.00  $  0.00  $ 0.00         4  $  95.00  $   0.00
+3     80053   Comprehensive metabolic   $   25.00  $  19.99  $  0.00  $ 0.00        16  $   5.01  $  19.99
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    370.00
+Total Allowed:    $     19.99
+Total Deductible: $      0.00
+Total Copay:      $      0.00
+Total Adjustment: $    350.01
+Total Paid:       $     19.99
+Patient Responsibility: $      0.00
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+16: Claim/service lacks information needed for adjudication
+4: The procedure code is inconsistent with the modifier used
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+MA04: Secondary payment cannot be considered
+================================================================================

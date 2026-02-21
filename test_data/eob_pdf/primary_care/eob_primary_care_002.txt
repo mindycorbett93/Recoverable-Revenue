@@ -1,0 +1,58 @@
+================================================================================
+                        EXPLANATION OF BENEFITS
+================================================================================
+PAYER: Cigna                                     DATE: 11/29/2025
+PAYER ID: 62308                                  EOB NUMBER: EOB0000228723
+PLAN TYPE: PPO                                   TAX ID: 89-5474689
+================================================================================
+PATIENT INFORMATION
+--------------------------------------------------------------------------------
+Patient Name: Baker, Charles                   Member ID: MEM13306935
+Date of Birth: 06/19/1952               Group: GRP112030
+Patient Account: PAT857910              Relationship: Self
+================================================================================
+PROVIDER INFORMATION
+--------------------------------------------------------------------------------
+Provider Name: Sarah Clark, MD FACS     NPI: 1000000021
+Provider Address: 5849 Cedar Ln
+Charlotte, NC 28201
+================================================================================
+CLAIM INFORMATION
+--------------------------------------------------------------------------------
+Claim Number: CLM0000200                Received Date: 11/19/2025
+Service From: 11/08/2025                Service To: 11/08/2025
+Place of Service: 11 - Office            Claim Status: PROCESSED
+================================================================================
+SERVICE DETAILS
+--------------------------------------------------------------------------------
+Line  CPT     Description                   Billed   Allowed   Deduct   Copay  Adj Code   Adj Amt      Paid
+----  -----   ----------------------      --------  --------  -------  ------  --------  --------  --------
+1     99490   Chronic care management,  $   42.00  $  31.59  $ 12.64  $ 0.00         1  $  10.41  $  18.95
+2     99385   Preventive visit, new, 1  $  200.00  $ 128.52  $  0.00  $ 0.00        50  $  71.48  $ 128.52
+3     G0438   Annual wellness visit, i  $  175.00  $ 134.53  $  0.00  $ 0.00         4  $  40.47  $ 134.53
+4     99215   Office visit, establishe  $  210.00  $ 154.16  $  0.00  $25.00         2  $  55.84  $ 129.16
+5     99203   Office visit, new patien  $  130.00  $ 114.11  $  0.00  $ 0.00        45  $  15.89  $ 114.11
+================================================================================
+TOTALS
+--------------------------------------------------------------------------------
+Total Billed:     $    757.00
+Total Allowed:    $    562.91
+Total Deductible: $     12.64
+Total Copay:      $     25.00
+Total Adjustment: $    194.09
+Total Paid:       $    525.27
+Patient Responsibility: $     37.64
+================================================================================
+ADJUSTMENT REASON CODES
+--------------------------------------------------------------------------------
+1: Deductible amount
+3: Copay amount
+45: Charge exceeds fee schedule/maximum allowable or contracted/legislated fee arrangement.
+================================================================================
+REMARKS
+--------------------------------------------------------------------------------
+M15: Separately billed services/tests denied
+MA130: Your claim contains incomplete or invalid info
+N432: Alert: Adjustment based on prior payer's allowance
+N657: Bill other payer first
+================================================================================
